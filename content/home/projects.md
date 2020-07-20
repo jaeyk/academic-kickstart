@@ -22,19 +22,19 @@ subtitle = ""
   filter_default = 0
   
  [[content.filter_button]]
-     name = "Text data"
+     name = "Text as data"
      tag = "text"
   
  [[content.filter_button]]
-     name = "Time series data"
+     name = "Time-series analysis"
      tag = "ts"
   
  [[content.filter_button]]
-     name = "Survey data"
+     name = "Survey research"
      tag = "survey"
 
  [[content.filter_button]]
-     name = "Experimental data"
+     name = "Experimental research"
      tag = "exp"
 
 [design]
