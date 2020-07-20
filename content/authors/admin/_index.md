@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I use data science to advance social science research on diversity and inclusion.
 
 interests:
 - Computatioinal social science
