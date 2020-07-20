@@ -6,7 +6,7 @@ date = "2020-05-13"
 title = "Policy Impact on Community Organizing"
 
 # Project summary to display on homepage.
-summary = "This project examines the impacts of the War on Poverty programs on the formation of Asian American and Latinx community organizations drawing on original administrative, organizational, and text data."
+summary = "This project examines the impact of the War on Poverty programs on the formation of Asian American and Latinx community organizations drawing on original administrative, organizational, and text data."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "its_adjusted_plot.png"
