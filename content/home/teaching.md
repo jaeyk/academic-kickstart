@@ -20,7 +20,7 @@ subtitle = ""
 - [Graduate Student Data Science Pedagogy Workshop](https://data.berkeley.edu/news/graduate-student-data-science-pedagogy-workshop%20), UC Berkeley, June 2019
 
 ## Graduate seminars:
-- **Lead instructor**, [An Introduction to Computational Tools and Techniques for Social Science Research](https://github.com/jaeyk/PS239T), UC Berkeley, Spring 2019 
+- Lead instructor, [An Introduction to Computational Tools and Techniques for Social Science Research](https://github.com/jaeyk/PS239T), UC Berkeley, Spring 2019 
 - Graduate student instructor for [Rachel Bernhard](http://rachelbernhard.com/), An Introduction to Computational Tools and Techniques for Social Science Research, UC Berkeley, Spring 2018 
 
 ## Undergraduate lectures:
