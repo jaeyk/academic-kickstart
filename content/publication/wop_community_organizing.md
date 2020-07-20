@@ -22,7 +22,7 @@ url_pdf = "https://osf.io/preprints/socarxiv/n83xs/"
 url_code = "https://github.com/jaeyk/regression-analysis-with-time-series-data"
 url_dataset = "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FLUPBJ"
 # url_project = "#"
-url_slides = "https://slides.com/jaeyeonkim/deck/fullscreen"
+# url_slides = "#"
 # url_video = "#"
 
 [[url_custom]]

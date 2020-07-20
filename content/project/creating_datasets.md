@@ -16,7 +16,7 @@ image_preview = "its_adjusted_plot.png"
 tags = ["text", "ts"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/jaeyk/ITS-Text-Classification"
+external_link = "https://github.com/jaeyk/regression-analysis-with-time-series-data"
 
 # Does the project detail page use math formatting?
 math = false
