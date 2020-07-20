@@ -13,11 +13,6 @@ printf "\033[0;32m Building site:\033[0m\n"
 # Build the project.
 hugo -t academic # if using a theme, replace with `hugo -t <YOURTHEME>`
 
-# Go To Public folder
-
-printf "\033[0;32m Switching to public folder.\033[0m\n"
-cd public
-
 # Add changes to git.
 printf "\033[0;32mChecking out master branch.\033[0m\n"
 git checkout master
@@ -34,4 +29,4 @@ git commit -m "$msg"
 
 # Push source and build repos.
 printf "\033[0;32mPushing to GitHub.\033[0m\n"
-git push origin master
+git push 
