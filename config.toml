@@ -5,3 +5,27 @@
 # If you are not using those tools, this file may be deleted.
 #
 # The actual configuration files are stored in the `config/_default/` folder.
+
+title = "Jae Yeon Kim"
+
+role = "PhD Candidate in Political Science & D-Lab Data Science Fellow"
+
+organizations = "UC Berkeley"
+
+# Domain name
+baseurl = "https://jaeyk.github.io/"
+
+# To match the GitHub master branch
+publishDir = "."
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+# To use emoji
+enableEmoji = true
+
+# To use Korean
+
+# Rule for generating permalinks
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+hasCJKLanguage = true

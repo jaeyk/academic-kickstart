@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>survey | Jae Yeon Kim</title>
+    <link>/tags/survey/</link>
+      <atom:link href="/tags/survey/index.xml" rel="self" type="application/rss+xml" />
+    <description>survey</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_box_center_2.png</url>
+      <title>survey</title>
+      <link>/tags/survey/</link>
+    </image>
+    
+    <item>
+      <title>Categorizing Marginal Experience Using Survey</title>
+      <link>/project/understanding_marginalization/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/project/understanding_marginalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making Survey Questions More Interpretable</title>
+      <link>/project/survey_interpretation/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/survey_interpretation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Sensitive Attitudes</title>
+      <link>/project/detecting_sensitive_attitudes/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/project/detecting_sensitive_attitudes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

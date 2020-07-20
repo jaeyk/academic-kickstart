@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>text | Jae Yeon Kim</title>
+    <link>/tags/text/</link>
+      <atom:link href="/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    <description>text</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_box_center_2.png</url>
+      <title>text</title>
+      <link>/tags/text/</link>
+    </image>
+    
+    <item>
+      <title>Large-scale Twitter Analysis on COVID-19 and Anti-Asian Climate</title>
+      <link>/project/large_n_twitter_analysis/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/project/large_n_twitter_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dataset Bias in Machine Learning</title>
+      <link>/project/dataset_bias/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/dataset_bias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Policy Impact on Community Organizing</title>
+      <link>/project/creating_datasets/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/creating_datasets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turning Ethnic Newspapers into Data</title>
+      <link>/project/history2data/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/history2data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal inference using text data and natural experiments</title>
+      <link>/project/text_for_causal_inference/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/project/text_for_causal_inference/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
