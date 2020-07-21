@@ -12,7 +12,8 @@ math = false
 publication_types = ["1"]
 
 publication = "*Proceedings of the Fourteenth International Conference on Web and Social Media (ICWSM), Data Challenge Workshop*"
-publication_short = "*ICWSM*"
+
+publication_short = "*Proceedings of the Fourteenth International Conference on Web and Social Media (ICWSM), Data Challenge Workshop*"
 
 selected = false
 
@@ -33,6 +34,10 @@ url_slides = "https://slides.com/jaeyeonkim/intersectional-bias-in-hate-speech-a
 # [header]
 # image = "headers/bubbles-wide.jpg"
 # caption = "My caption :smile:"
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["peer_c"]
 
 +++
 

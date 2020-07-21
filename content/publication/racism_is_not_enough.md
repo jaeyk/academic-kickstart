@@ -12,7 +12,7 @@ math = false
 publication_types = ["2"]
 
 publication = "*Studies in American Political Development*"
-publication_short = "*SAPD*"
+publication_short = "*Studies in American Political Development*"
 
 selected = false
 

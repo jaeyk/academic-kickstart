@@ -12,7 +12,7 @@ math = false
 publication_types = ["3"]
 
 publication = "*SocArXiv*"
-publication_short = "*SocArXiv*"
+publication_short = "Winner of the WPSA's *Don. T Nakanishi Award in Distinguished Scholarship in Asian Pacific American Politics*"
 
 selected = false
 
