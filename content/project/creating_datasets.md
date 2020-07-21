@@ -9,7 +9,7 @@ title = "Policy Impact on Community Organizing"
 summary = "This project examines the impact of the War on Poverty programs on the formation of Asian American and Latinx community organizations drawing on original administrative, organizational, and text data."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "its_adjusted_plot.png"
+image_preview = "img/its_adjusted_plot.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

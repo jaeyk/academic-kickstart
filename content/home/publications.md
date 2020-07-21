@@ -22,30 +22,14 @@ subtitle = ""
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
-
+  
   # Filter posts by a taxonomy term.
-#  [content.filters]
-#    tag = ""
-#    category = ""
-#    publication_type = ""
-#    author = ""
-#    exclude_featured = false
-
-  [[content.filter_button]]
-     name = "Peer-reviewed articles"
-     tag = "peer_a"
-     
-  [[content.filter_button]]
-     name = "Peer-reviewed conferences"
-     tag = "peer_c"
-     
-  [[content.filter_button]]
-     name = "preprints"
-     tag = "pre"
-     
-  [[content.filter_button]]
-     name = "dissertation"
-     tag = "diss"
+  [content.filters]
+    tag = ""
+    category = ""
+    publication_type = ""
+    author = ""
+    exclude_featured = false
 
 [design]
   # Toggle between the various page layout types.
