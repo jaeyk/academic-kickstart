@@ -22,8 +22,8 @@ title = "CV/Resume"
   # color = "navy"
   
   # Background gradient.
-   gradient_start = "LightGrey"
-   gradient_end = "LightGrey"
+  # gradient_start = "LightGrey"
+  # gradient_end = "LightGrey"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
