@@ -19,12 +19,12 @@ selected = false
 
 title = "Three Essays on the Politics of Solidarity in Multiracial America"
 
-url_code = "#"
-url_dataset = "#"
-url_pdf = "#"
-url_project = "#"
-url_slides = "#"
-url_video = "#"
+# url_code = "#"
+# url_dataset = "#"
+# url_pdf = "#"
+# url_project = "#"
+# url_slides = "#"
+# url_video = "#"
 
 [[url_custom]] 
 #name = "#" 
