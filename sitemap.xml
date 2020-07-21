@@ -3,148 +3,127 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-07-20T12:21:18-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-07-20T12:21:18-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2020/07/20/what-running-taught-me/</loc>
-    <lastmod>2020-07-20T12:21:18-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/large_n_twitter_analysis/</loc>
+    <loc>https://jaeyk.github.io/</loc>
     <lastmod>2020-07-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>https://jaeyk.github.io/project/large_n_twitter_analysis/</loc>
     <lastmod>2020-07-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://jaeyk.github.io/project/</loc>
     <lastmod>2020-07-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/text/</loc>
+    <loc>https://jaeyk.github.io/tags/</loc>
     <lastmod>2020-07-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/ts/</loc>
+    <loc>https://jaeyk.github.io/tags/text/</loc>
     <lastmod>2020-07-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>https://jaeyk.github.io/tags/ts/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jaeyk.github.io/publication/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/racism_is_not_enough/</loc>
+    <loc>https://jaeyk.github.io/publication/racism_is_not_enough/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/dataset_bias/</loc>
+    <loc>https://jaeyk.github.io/project/dataset_bias/</loc>
     <lastmod>2020-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2020/06/09/speaking-of-speaking-english/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/intersectional_bias_in_hate_speech/</loc>
+    <loc>https://jaeyk.github.io/publication/intersectional_bias_in_hate_speech/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/creating_datasets/</loc>
+    <loc>https://jaeyk.github.io/project/creating_datasets/</loc>
     <lastmod>2020-05-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/history2data/</loc>
+    <loc>https://jaeyk.github.io/project/history2data/</loc>
     <lastmod>2020-05-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/text_as_issue/</loc>
+    <loc>https://jaeyk.github.io/publication/text_as_issue/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/wop_community_organizing/</loc>
+    <loc>https://jaeyk.github.io/publication/wop_community_organizing/</loc>
     <lastmod>2020-04-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/text_for_causal_inference/</loc>
+    <loc>https://jaeyk.github.io/project/text_for_causal_inference/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/understanding_marginalization/</loc>
+    <loc>https://jaeyk.github.io/project/understanding_marginalization/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/survey/</loc>
+    <loc>https://jaeyk.github.io/tags/survey/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/exp/</loc>
+    <loc>https://jaeyk.github.io/tags/exp/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/survey_interpretation/</loc>
+    <loc>https://jaeyk.github.io/project/survey_interpretation/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/detecting_sensitive_attitudes/</loc>
+    <loc>https://jaeyk.github.io/project/detecting_sensitive_attitudes/</loc>
     <lastmod>2017-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://jaeyk.github.io/authors/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://jaeyk.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>https://jaeyk.github.io/authors/admin/</loc>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://jaeyk.github.io/post/</loc>
   </url>
   
   <url>
-    <loc>/publication/dissertation/</loc>
+    <loc>https://jaeyk.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jaeyk.github.io/publication/dissertation/</loc>
   </url>
   
 </urlset>
