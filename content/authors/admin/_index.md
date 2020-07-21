@@ -15,7 +15,7 @@ role: PhD Candidate in Political Science & Data Science Fellow
 # Organizations/Affiliations
 organizations:
 - name: UC Berkeley
-  url: "https://polisci.berkeley.edu/people/person/jae-yeon-kim"
+#  url: "#"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I use data science to advance social science research on diversity and inclusion.
