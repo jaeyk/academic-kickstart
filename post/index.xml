@@ -2,15 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Jae Yeon Kim</title>
-    <link>https://jaeyk.github.io/post/</link>
-      <atom:link href="https://jaeyk.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jul 2020 12:21:18 -0700</lastBuildDate>
     <image>
-      <url>https://jaeyk.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_box_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_box_center_2.png</url>
       <title>Posts</title>
-      <link>https://jaeyk.github.io/post/</link>
+      <link>/post/</link>
     </image>
+    
+    <item>
+      <title>What Running Taught Me</title>
+      <link>/2020/07/20/what-running-taught-me/</link>
+      <pubDate>Mon, 20 Jul 2020 12:21:18 -0700</pubDate>
+      <guid>/2020/07/20/what-running-taught-me/</guid>
+      <description>&lt;p&gt;In early 2020, I took up running seriously. I used to be a martial arts enthusiast and gym rat, but that changed after my first child came along. I simply had no time to do these things anymore. Instead, I hit the road.&lt;/p&gt;
+&lt;p&gt;When the pandemic emerged, I traded my long commuting time for running. I typically run 4 to 5 days a week, each time going about 6 to 7 kilometers (around 4 to 5 miles). I am not fast and my form is ugly. Yet, I run because I don’t care. Running calms my troubled mind. While physical by nature, running is also deeply mental, meditative, and contemplative. Using running as a form of meditation, I have learned how to fail and how to grow old.&lt;/p&gt;
+&lt;p&gt;In my experience, life as a researcher is all about how to deal with failure. Beginning from graduate school, I don’t know how many times my papers, fellowship and grant proposals, and job applications were rejected. However, I learned that to be recognized, one must be bold, ambitious, and unafraid to take risks. Inevitably, this will include moments of failure. This is the only true way to discover and unleash your full potential. Nevertheless, the brutal process is anything but fun.&lt;/p&gt;
+&lt;p&gt;I decided to start running because I read about its positive effects on mental health. I hoped that running could reduce my work- and parenting-related stress. However, when I started training for running, I viewed it as if it was my work. I set goals, such as speed and distance, and committed myself to reaching them.&lt;/p&gt;
+&lt;p&gt;Through trial and error, I learned that what matters is finding pleasure. Now when I run, I don’t focus on how fast I am or how many miles I can do. Rather, I stay in the moment, focusing on proper breathing, foot landing, and, most importantly, going with the flow. As the sound of my footsteps becomes akin to music, my mind drifts away, along with my worries and anxieties.&lt;/p&gt;
+&lt;p&gt;What I’ve learned from running has served me in life. I am applying the wisdom gleaned from running to my work. Yes, I still must set defined goals to measure my progress but when I’m working, I don’t think about them. I focus on what and how I learn; finding the flow so I can continue to learn tomorrow, the day after that, and so on. In the process, I know setbacks and failures will occur. I will be slower and run fewer miles than I want to. This is fine as long as I hit the road the next day and find joy in it. I run to be happy. I also work to be happy.&lt;/p&gt;
+&lt;p&gt;The other important lesson I’ve learned is how to grow old. Aside from not having the time in my schedule, I became less interested in martial arts due to physical challenges. As I aged, I got injured more easily when sparring and I needed more time to recover. Though difficult, I have to be honest with myself: I’m getting old. Instead of resisting the inevitable, I am trying to adapt. Running more seriously and consciously is the start. As long as my legs can carry my body, I intend to run, work, and cherish every moment in my life.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Speaking of Speaking English</title>
+      <link>/2020/06/09/speaking-of-speaking-english/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/2020/06/09/speaking-of-speaking-english/</guid>
+      <description>&lt;p&gt;I switched my main subfield from comparative to American politics by the end of my second year. The motivation was simple: so many Americans are experts on non-US politics, but I wanted to show that the field should be a two-way street. International graduate students also have something to say about American politics, and that contribution could be invaluable. After I made that transition, I inadvertently became one of the very few minority students—and likely the only non-native speaker—whenever I attended seminars, workshops, and conferences on American politics.&lt;/p&gt;
+&lt;p&gt;Articulating complex ideas in a second or even third language is traumatizing. This does not stem from the difficulty involved in communicating ideas because that is a technical issue. The stigma comes more from knowing that someone in the audience will make a snap judgment on my intellect due to my accent. I didn’t need my training in social psychology to anticipate that this would happen. Over the past couple years, I’ve received such judgments from a number of highly intellectual and well-respected people in and outside Berkeley. When it happened for the first time, it was like being punched in the stomach. It was difficult to swallow my feelings and erase the experience from my memory. Those moments still haunt me like a ghost and make me simultaneously sad, angry, and frustrated. I don’t think these people were racist, they were just insensitive and unaware that their careless words can hurt. Each word may weigh little, but when combined, they become a thousand papercuts.&lt;/p&gt;
+&lt;p&gt;I presume someone who moved to the States when they were a child might have gone through a similar experience—classmates made fun of you because you sounded different. My colleagues were more respectful but perhaps more judgmental. More importantly, what they thought, said, and wrote about me and my work were consequential to my career.&lt;/p&gt;
+&lt;p&gt;For this and other reasons, in recent years, I’ve moved from political science to computational social science, which sits at the intersection between social science and data science. I still work on some traditional political science problems, but it’s clear that I no longer want to feel isolated and marginalized because I don’t look or sound like most of the others. Computational social science also has serious inclusion and diversity issues, yet my experience tells me that there I am no longer the only non-native English speaker sitting in a vast seminar room constantly worrying about what people think of my accent. This personal experience also motivated me to spend substantial time and energy teaching statistics and data science tools to students from non-traditional backgrounds. I am quite proud that my undergraduate research assistants and I co-authored a paper, which was accepted at a major computational social science conference this year.&lt;/p&gt;
+&lt;p&gt;If you’ve read this far and if you are one of my political scientist colleagues, I sincerely express my gratitude and have one simple request: if you think that the US-centric world view is problematic and the field needs to diversify, never make a condescending comment like “the author is not a native speaker.” Such comments serve no constructive goals. What they do is amplifying bias and signify your privilege when the field already has so many problems. Let’s make the world a better place by being nice. Each one of you has an underappreciated superpower: you can make an enormous difference just by being kind to someone who is struggling to find their place in a strange new world.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
