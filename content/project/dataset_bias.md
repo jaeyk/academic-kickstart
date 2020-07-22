@@ -6,7 +6,7 @@ date = "2020-06-15"
 title = "Dataset Bias in Machine Learning"
 
 # Project summary to display on homepage.
-summary = "This project analyzes the bias in the dataset used in the hate speech and abusive language detection systems."
+summary = "This project analyzes the intersectional bias in the dataset used in the hate speech and abusive language detection systems."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "race_gender.png"

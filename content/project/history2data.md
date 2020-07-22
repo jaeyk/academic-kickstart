@@ -6,7 +6,7 @@ date = "2020-05-13"
 title = "Turning Ethnic Newspapers into Data"
 
 # Project summary to display on homepage.
-summary = "This project turns historical ethnic newspaper articles into data to trace how issues varied among minority groups in the 1960s and 1970s."
+summary = "This project turns historical ethnic newspaper articles into data to trace how issues varied among minority groups in the era of civil rights movement."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "time_series_plot.png"
