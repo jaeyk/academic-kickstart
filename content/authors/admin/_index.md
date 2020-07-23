@@ -79,5 +79,4 @@ I study the politics of identity and inequality in the US, Canada, and East Asia
 
 I am a proud recipient of the Outstanding Graduate Student Instructor Award. I teach computational social science at both the graduate and undergraduate levels, including semester-long courses and short workshops. I also served as a [Data Science Education Program Fellow](https://ocean.sagepub.com/blog/skills/5-principles-to-get-undergraduates-involved-in-real-world-data-science-projects) for the Discovery Program at UC Berkeley.  
 
-Please feel free to contact me via email at [jaeyeonkim@berkeley.edu](mailto:jaeyeonkim@berkeley.edu)
-
+Please feel free to contact me via email at [jaeyeonkim@berkeley.edu](mailto:jaeyeonkim@berkeley.edu) As Paul Erdős said, my brain is open!
