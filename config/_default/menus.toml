@@ -24,21 +24,26 @@
   weight = 40
 
 [[main]]
+  name = "Data"
+  url = "#data"
+  weight = 50
+
+[[main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "CV/Resume"
   url = "#cv"
-  weight = 60
+  weight = 70
 
 [[main]]
   name = "Bio"
   url = "#bio"
-  weight = 70
+  weight = 80
 
 #[[main]]
  # name = "Contact"
 #  url = "#contact"
- # weight = 80
+ # weight = 90
