@@ -6,7 +6,7 @@ date = "2019-08-15"
 title = "Making Survey Questions More Interpretable"
 
 # Project summary to display on homepage.
-summary = "This project analyzes how survey respondents interpret questions on racial solidarity using within-group survey experimental design."
+summary = "This project analyzes how survey respondents interpret questions on racial solidarity using a within-group survey experimental design."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "animated_twitter_plot.gif"
