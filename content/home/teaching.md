@@ -19,11 +19,11 @@ subtitle = ""
 - [Outstanding Graduate Student Instructor Award](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-2017/), UC Berkeley, AY 2016-2017 
 - [Graduate Student Data Science Pedagogy Workshop](https://data.berkeley.edu/news/graduate-student-data-science-pedagogy-workshop%20), UC Berkeley, June 2019
 
-## Graduate seminars:
+## Graduate Seminars:
 - Lead instructor, [An Introduction to Computational Tools and Techniques for Social Science Research](https://github.com/jaeyk/PS239T), UC Berkeley, Spring 2019 
 - Graduate student instructor for [Rachel Bernhard](http://rachelbernhard.com/), An Introduction to Computational Tools and Techniques for Social Science Research, UC Berkeley, Spring 2018 
 
-## Undergraduate lectures:
+## Undergraduate Lectures:
 - Graduate student instructor for [Laura Stoker](https://polisci.berkeley.edu/people/person/laura-stoker), Introduction to Empirical Analysis and Quantitative Methods, UC Berkeley, Fall 2016
 
 ## Workshops:
@@ -36,7 +36,7 @@ subtitle = ""
   - [Bias and Fairness in Machine Learning](https://slides.com/jaeyeonkim/how-to-do-responsible-data-science/#/)
   - [Data Communication and Visualization](https://slides.com/jaeyeonkim/how-to-talk-about-data)
   
-## Consulting and mentoring:
+## Consulting and Mentoring:
 - Graduate fellow, [Data Science Education Program](https://ais.berkeley.edu/departments/data-science-education-program), Division of Computing, Data, and Society, UC Berkeley, Spring 2020
 - Statistical and computational methods consultant, D-Lab, UC Berkeley, May 2019 - Present 
     - Please feel free to make an appointment with me (use this [link](https://dlab.berkeley.edu/consulting)), if you were a UC Berkeley faculty, staff, or student and have a consulting request.  
