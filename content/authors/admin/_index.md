@@ -73,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-I am a computational social scientist, a PhD candidate in Political Science and a [D-Lab Data Science Fellow](https://dlab.berkeley.edu/people/jae-yeon-kim) at UC Berkeley. I use data science to advance social science research on diversity and inclusion. I also develop research software that make using text data in social science easier and faster.
+I am a computational social scientist, a PhD candidate in Political Science and a [D-Lab Data Science Fellow](https://dlab.berkeley.edu/people/jae-yeon-kim) at UC Berkeley. I use data science to advance social science research on diversity and inclusion. I also develop research software that make using text data in social science easier.
 
 My multi-methods dissertation examines how policies influenced minority coalition building in the US in the era of civil rights. This project won WPSA's Don T. Nakanishi Award for Distinguished Scholarship and Service in Asian Pacific American Politics. Portions of this work are published in [*Studies in American Political Development*](https://www.cambridge.org/core/journals/studies-in-american-political-development/article/racism-is-not-enough-minority-coalition-building-in-san-francisco-seattle-and-vancouver/7557642023E744D2E0FA68D800C8E08E/share/acc3d5f2d658e9ab2b3af76a69ab40dd510702c8). My research on bias in machine learning applications appears in [*Proceedings of the Fourteenth International Conference on Web and Social Media (ICWSM), Data Challenge Workshop*](https://arxiv.org/abs/2005.05921). I authored and maintain two R packages: [tidytweetjson](https://github.com/jaeyk/tidytweetjson) and [tidyethnicnews](https://github.com/jaeyk/tidyethnicnews)
 
