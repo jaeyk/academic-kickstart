@@ -80,5 +80,3 @@ My multi-methods dissertation examines how policies influenced minority coalitio
 I am a proud recipient of the Outstanding Graduate Student Instructor Award. I teach computational social science at both the graduate and undergraduate levels, including semester-long courses and short workshops. I served as a [Data Science Education Program Fellow](https://ocean.sagepub.com/blog/skills/5-principles-to-get-undergraduates-involved-in-real-world-data-science-projects) for the Discovery Program at UC Berkeley and co-organized [the Summer Institute in Computational Social Science in the San Francisco Bay Area](https://compsocialscience.github.io/summer-institute/2020/bay_area/).   
 
 Please feel free to contact me via email at [jaeyeonkim@berkeley.edu](mailto:jaeyeonkim@berkeley.edu). 
-
-**Currently, I am looking for postdoc positions in computational social science.**
