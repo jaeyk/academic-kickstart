@@ -27,9 +27,10 @@ subtitle = ""
 - Graduate student instructor for [Laura Stoker](https://polisci.berkeley.edu/people/person/laura-stoker), Introduction to Empirical Analysis and Quantitative Methods, UC Berkeley, Fall 2016
 
 ## Workshops:
-- Instructor, D-Lab, UC Berkeley, Summer 2020 
+- Instructor, D-Lab, UC Berkeley, Summer 2020 - Present 
   - [SQL for R Users](https://github.com/dlab-berkeley/sql-for-r-users) 
   - [Advanced Data Wrangling Techniques in R](https://github.com/dlab-berkeley/advanced-data-wrangling-in-R)
+  - [Efficient and Reproducible Project Management in R](https://github.com/dlab-berkeley/efficient-reproducible-project-management-in-R)
 - Co-instructor, Data Science Discovery Team Lead Seminar, UC Berkeley, Spring 2020 
   - [Project Management](https://slides.com/jaeyeonkim/how-to-make-a-data-science-project-robust#/)
   - [Computational Reproducibility and Version Control](https://slides.com/jaeyeonkim/how-to-make-a-data-science-project-reproducible#/)
