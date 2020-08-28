@@ -40,6 +40,7 @@ subtitle = ""
 ## Consulting and Mentoring:
 - Graduate fellow, [Data Science Education Program](https://ais.berkeley.edu/departments/data-science-education-program), Division of Computing, Data, and Society, UC Berkeley, Spring 2020
 - Statistical and computational methods consultant, D-Lab, UC Berkeley, May 2019 - Present 
-    - Please feel free to make an appointment with me, if you were a UC Berkeley faculty, staff, or student and have questions about either statistical or computational methods. Use this [link](https://dlab.berkeley.edu/consulting) to make a consulting request and use this [link](https://calendly.com/jaeyeonkim) to shcedule a meeting.  
+    - Please feel free to make an appointment with me, if you were a UC Berkeley faculty, staff, or student and have questions about either statistical or computational methods. 
+    - Please use this [link](https://dlab.berkeley.edu/consulting) to make a consulting request and use this [link](https://calendly.com/jaeyeonkim) to shcedule a meeting.  
 - Project lead, [Data Science Discovery Program](https://data.berkeley.edu/research/discovery), UC Berkeley, Fall 2019 - Spring 2020
 - Project lead, Undergraduate Research Apprentice Program, UC Berkeley, Fall 2018
