@@ -15,5 +15,5 @@ subtitle = ""
 +++
 
 - [Statistical and computational methods consultant](https://dlab.berkeley.edu/people/jae-yeon-kim), D-Lab, UC Berkeley, May 2019 - Present 
-    - Expertise: I love helping people write efficient and reusable code for data wrangling, modeling, and visualization.
+    - Expertise: R, Python, applied statistics, machine learning, and data management 
     - Please use this [link](https://dlab.berkeley.edu/consulting) to make a consulting request and use this [link](https://calendly.com/jaeyeonkim) to shcedule a meeting.  
