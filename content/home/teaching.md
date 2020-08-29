@@ -36,10 +36,8 @@ subtitle = ""
   - [Computational Reproducibility and Version Control](https://slides.com/jaeyeonkim/how-to-make-a-data-science-project-reproducible#/)
   - [Bias and Fairness in Machine Learning](https://slides.com/jaeyeonkim/how-to-do-responsible-data-science/#/)
   - [Data Communication and Visualization](https://slides.com/jaeyeonkim/how-to-talk-about-data)
-  
-## Consulting and Mentoring:
+
+## Mentoring:
 - Graduate fellow, [Data Science Education Program](https://ais.berkeley.edu/departments/data-science-education-program), Division of Computing, Data, and Society, UC Berkeley, Spring 2020
-- Statistical and computational methods consultant, D-Lab, UC Berkeley, May 2019 - Present 
-    - Please use this [link](https://dlab.berkeley.edu/consulting) to make a consulting request and use this [link](https://calendly.com/jaeyeonkim) to shcedule a meeting.  
 - Project lead, [Data Science Discovery Program](https://data.berkeley.edu/research/discovery), UC Berkeley, Fall 2019 - Spring 2020
 - Project lead, Undergraduate Research Apprentice Program, UC Berkeley, Fall 2018
