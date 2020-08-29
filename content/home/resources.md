@@ -21,7 +21,7 @@ Online resources I find useful for self-learning and professional development.
 ### Tools
 
 - [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickam 
-- [Advanced R](https://adv-r.hadley.nz/) by Hadley Wickam (RStudio)
+- [Advanced R](https://adv-r.hadley.nz/) by Hadley Wickam 
 - [Data Visualization](https://socviz.co/) by Kieran Healy 
 
 ### Methods
