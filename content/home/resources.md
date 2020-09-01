@@ -34,7 +34,7 @@ Online resources I find useful for self-learning and professional development.
 
 ### Presentation 
 
-[Sharing Your xaringan Slides](https://www.garrickadenbuie.com/blog/sharing-xaringan-slides/) by Garrick Aden‑Buie
+- [Sharing Your xaringan Slides](https://www.garrickadenbuie.com/blog/sharing-xaringan-slides/) by Garrick Aden‑Buie
 
 ### Publication
 
