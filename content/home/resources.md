@@ -20,15 +20,30 @@ Online resources I find useful for self-learning and professional development.
 
 ### Tools
 
+#### R programming 
+
 - [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickam 
 - [Advanced R](https://adv-r.hadley.nz/) by Hadley Wickam 
+
+#### Data visualization
+
 - [Data Visualization](https://socviz.co/) by Kieran Healy 
 
 ### Methods
 
+#### Machine learning 
+
 - [Machine Learning and Econometrics](https://www.aeaweb.org/conference/cont-ed/2018-webcasts) by Susan Athey and Guido Imbens
 - [Machine Learning](https://www.coursera.org/courses?query=machine%20learning%20andrew%20ng) by Andrew Ng 
+- [Applied Predictive Modeling](http://appliedpredictivemodeling.com/) by Max Kuhn and Kjell Johnson
+- [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/) by Bradley Boehmke & Brandon Greenwell
+- [mlr3 book](https://mlr3book.mlr-org.com/) by Michel Lang, Patrick Schratz, Martin Binder, Florian Pfisterer, Jakob Richter, Nicholas G. Reich, and Bernd Bischl
+
+#### Applied statistics 
+
 - [Quantitative Social Science Methods](https://www.youtube.com/playlist?list=PLmpS1iNDaUFtat0QiqXZhlsAgseWtJ1Kk) by Gary King 
+- [Applied Statistics](https://5harad.com/mse125/) by Sharad Goel 
+- [Applied Statistics](https://github.com/rlbarter/STAT-215A-Fall-2017) by Bin Yu and Rebecca Barter 
 
 ## **Professional development**
 
