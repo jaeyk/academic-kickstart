@@ -32,6 +32,10 @@ Online resources I find useful for self-learning and professional development.
 
 ## **Professional development**
 
+### Presentation 
+
+[Sharing Your xaringan Slides](https://www.garrickadenbuie.com/blog/sharing-xaringan-slides/) by Garrick Aden‑Buie
+
 ### Publication
 
 - [Ten Simple Rules for Writing a Response to Reviewers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005730) by William Stafford Noble
