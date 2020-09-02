@@ -5,7 +5,7 @@ headless = true
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Other writings"
+title = "Other publications"
 subtitle = ""
 
 [design]
