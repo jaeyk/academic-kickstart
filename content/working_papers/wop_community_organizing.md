@@ -1,5 +1,5 @@
 +++
-abstract = "In the early 20th century, Asian Americans and Latinos organized along national origin lines and focused on assimilation, but by the 1960s and 1970s, they began to form panethnic community-based organizations (CBOs) and emphasized racial solidarity. Why did this shift occur? I argue that focusing on the rise of panethnic CBOs reveals an underappreciated mechanism that has mobilized Asian Americans and Latinos—the welfare state. The War on Poverty programs incentivized non-black minority community organizers to form panethnic CBOs that compete with African Americans. Drawing on archival research, I identify this mechanism and then test its theoretical implications with my original dataset of 818 Asian American and Latino advocacy organizations and CBOs. An interrupted time series design analysis confirms the effect of federal grants on the founding rate of panethnic CBOs. A regression analysis estimates that a 1% increase in federal funding is associated with the increase of the two Asian American and Latino CBOs in the 1960s and 1970s. This article provides the first systematic evidence of the impact of welfare state expansion on Asian American and Latino community organizing and deepens our understanding of how policies influence the politics of non-primary target groups."
+abstract = "In the early 20th century, Asian Americans and Latinos organized along national origin lines and focused on assimilation; By the 1960s and 1970s, community organizers from both groups began to form panethnic community service organizations (CSOs) that emphasized solidarity. I argue that focusing on the rise of panethnic CBOs reveals an underappreciated mechanism that has mobilized Asian Americans and Latinos---the welfare state. The War on Poverty programs incentivized non-black minority community organizers to form panethnic CBOs to increase visibility and gain access to state resources. Drawing on extensive archival research, I identify this mechanism and test it with my original dataset of 818 Asian American and Latino advocacy organizations and CSOs. Using interrupted time series design and regression analysis, I establish the effect of federal grants on the founding rate of panethnic CSOs. A 1% increase in federal funding is associated with the increase of the two panethnic CSOs during the War on Poverty. This article provides the first systematic evidence of how the expansion of the welfare state transformed Asian American and Latino politics by activating the politics of recognition."
 
 authors = ["Kim, Jae Yeon"]
 
@@ -16,7 +16,7 @@ publication_short = "*Revise and Resubmit* at Political Research Quarterly"
 
 selected = false
 
-title = "The War on Poverty and Asian American and Latino Community Organizing"
+title = "How Other Minorities Gained Access: The War on Poverty and Asian American and Latino Community Organizing"
 
 url_pdf = "https://osf.io/preprints/socarxiv/n83xs/"
 url_code = "https://github.com/jaeyk/regression-analysis-with-time-series-data"
