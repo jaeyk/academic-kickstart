@@ -20,15 +20,15 @@ subtitle = ""
 - [Graduate Student Data Science Pedagogy Workshop](https://data.berkeley.edu/news/graduate-student-data-science-pedagogy-workshop%20), UC Berkeley, June 2019
 
 ## Graduate Seminars:
-- Co-instructor, [Research Workshop on Computational Tools for Digital Data Collection](https://github.com/jaeyk/digital_data_collection_workshop), UC Berkeley, Fall 2020
-- Lead instructor, [An Introduction to Computational Tools and Techniques for Social Science Research](https://github.com/jaeyk/PS239T), UC Berkeley, Spring 2019
-- Graduate student instructor for [Rachel Bernhard](http://rachelbernhard.com/), An Introduction to Computational Tools and Techniques for Social Science Research, UC Berkeley, Spring 2018 
+- Lead instructor, [An Introduction to Computational Tools and Techniques for Social Science Research](https://github.com/jaeyk/PS239T), Department of Political Science, UC Berkeley, Spring 2019
+- Graduate student instructor for [Rachel Bernhard](http://rachelbernhard.com/), An Introduction to Computational Tools and Techniques for Social Science Research, UC Berkeley, Department of Political Science, Spring 2018 
 
 ## Undergraduate Lectures:
-- Graduate student instructor for [Laura Stoker](https://polisci.berkeley.edu/people/person/laura-stoker), Introduction to Empirical Analysis and Quantitative Methods, UC Berkeley, Fall 2016
+- Graduate student instructor for [Laura Stoker](https://polisci.berkeley.edu/people/person/laura-stoker), Introduction to Empirical Analysis and Quantitative Methods, Department of Political Science, UC Berkeley, Fall 2016
 
 ## Workshops:
-- Instructor, D-Lab, UC Berkeley, Summer 2020 - Present 
+- Co-instructor, [Research Workshop on Computational Tools for Digital Data Collection](https://github.com/jaeyk/digital_data_collection_workshop), Department of Political Science, UC Berkeley, Fall 2020
+- Instructor, D-Lab Workshops, UC Berkeley, Summer 2020 - Present 
   - [SQL for R Users](https://github.com/dlab-berkeley/sql-for-r-users) 
   - [R Package Development](https://github.com/dlab-berkeley/R-package-development)
   - [Advanced Data Wrangling Techniques in R](https://github.com/dlab-berkeley/advanced-data-wrangling-in-R)
