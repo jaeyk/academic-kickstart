@@ -14,6 +14,6 @@ subtitle = ""
 
 +++
 
-Kim, Jae Yeon. ["Five principles to get undergraduates involved in real-world data science projects"](https://ocean.sagepub.com/blog/skills/5-principles-to-get-undergraduates-involved-in-real-world-data-science-projects). *SAGE Ocean*. June 24, 2020.
+Kim, Jae Yeon. ["Five Principles to Get Undergraduates Involved in Real-world Data Science Projects"](https://ocean.sagepub.com/blog/skills/5-principles-to-get-undergraduates-involved-in-real-world-data-science-projects). *SAGE Ocean*. June 24, 2020.
 
-Kim, Jae Yeon. ["How I accidentally became interested in data science"](https://dlab.berkeley.edu/blog/how-i-accidentally-became-interested-data-science). *UC Berkeley D-Lab*. Feb 24, 2020.
+Kim, Jae Yeon. ["How I Accidentally Became Interested in Data Science"](https://dlab.berkeley.edu/blog/how-i-accidentally-became-interested-data-science). *UC Berkeley D-Lab*. February 24, 2020.
