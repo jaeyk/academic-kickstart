@@ -21,7 +21,7 @@ subtitle = ""
 
 ## Graduate Seminars:
 - Lead instructor, [An Introduction to Computational Tools and Techniques for Social Science Research](https://github.com/jaeyk/PS239T), Department of Political Science, UC Berkeley, Spring 2019
-- Graduate student instructor for [Rachel Bernhard](http://rachelbernhard.com/), An Introduction to Computational Tools and Techniques for Social Science Research, UC Berkeley, Department of Political Science, Spring 2018 
+- Graduate student instructor for [Rachel Bernhard](http://rachelbernhard.com/), An Introduction to Computational Tools and Techniques for Social Science Research, Department of Political Science, UC Berkeley, Spring 2018 
 
 ## Undergraduate Lectures:
 - Graduate student instructor for [Laura Stoker](https://polisci.berkeley.edu/people/person/laura-stoker), Introduction to Empirical Analysis and Quantitative Methods, Department of Political Science, UC Berkeley, Fall 2016
