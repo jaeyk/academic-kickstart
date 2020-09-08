@@ -27,10 +27,10 @@
   
     
   
-  <meta name="description" content="Automating text analysis brings large-scale text data into historical social science research. This feature is especially attractive to the field of racial and ethnic politics, in which historical quantitative data are rare. My integrated text classification framework argues that this computational approach produces more credible outcomes when researchers pay careful attention to humans’ role in the machine learning pipeline. The quality of human-coded training data influences the performance and interpretation of machine-coded corpora. I support this argument with an analysis of political issues that appeared in 78,383 articles from Asian American and African American newspapers issued from the 1960s through the 1980s. Asian American newspapers focused on promoting collective gains more often than African American newspapers. Conversely, African American newspapers concentrated on preventing collective losses more than Asian American newspapers. The misalignment of political agendas between the two corpora widened up to 10 times when the training data were measured using the minimum, rather than the maximum, reliability threshold.">
+  <meta name="description" content="D-Lab Data Science Fellows Talk">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://jaeyk.github.io/working_papers/text_as_issue/">
+  <link rel="alternate" hreflang="en-us" href="/talk/aspa_2020/">
 
   
 
@@ -258,7 +258,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_box_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_box_center_2.png">
 
-  <link rel="canonical" href="https://jaeyk.github.io/working_papers/text_as_issue/">
+  <link rel="canonical" href="/talk/aspa_2020/">
 
   
   
@@ -277,15 +277,15 @@
   <meta property="twitter:creator" content="@JaeJaeykim2">
   
   <meta property="og:site_name" content="Jae Yeon Kim">
-  <meta property="og:url" content="https://jaeyk.github.io/working_papers/text_as_issue/">
-  <meta property="og:title" content="Integrating Human and Machine Coding to Measure Political Issues in Ethnic Newspaper Articles | Jae Yeon Kim">
-  <meta property="og:description" content="Automating text analysis brings large-scale text data into historical social science research. This feature is especially attractive to the field of racial and ethnic politics, in which historical quantitative data are rare. My integrated text classification framework argues that this computational approach produces more credible outcomes when researchers pay careful attention to humans’ role in the machine learning pipeline. The quality of human-coded training data influences the performance and interpretation of machine-coded corpora. I support this argument with an analysis of political issues that appeared in 78,383 articles from Asian American and African American newspapers issued from the 1960s through the 1980s. Asian American newspapers focused on promoting collective gains more often than African American newspapers. Conversely, African American newspapers concentrated on preventing collective losses more than Asian American newspapers. The misalignment of political agendas between the two corpora widened up to 10 times when the training data were measured using the minimum, rather than the maximum, reliability threshold."><meta property="og:image" content="https://jaeyk.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_box_center_2.png">
-  <meta property="twitter:image" content="https://jaeyk.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_box_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="/talk/aspa_2020/">
+  <meta property="og:title" content="Tips for Making a Data Science Project Reproducible, Reusable, and Self-contained | Jae Yeon Kim">
+  <meta property="og:description" content="D-Lab Data Science Fellows Talk"><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_box_center_2.png">
+  <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_box_center_2.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2020-04-30T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2020-09-07T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2020-04-30T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2020-09-11T12:00:00&#43;00:00">
   
 
   
@@ -293,7 +293,40 @@
 
 
   
+    
 
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/talk/aspa_2020/"
+  },
+  "name": "Tips for Making a Data Science Project Reproducible, Reusable, and Self-contained",
+  
+  "location": {
+    "@type": "Place",
+    "name": "Zoom"
+  },
+  
+  
+  "startDate": "2020-09-11T12:00:00Z",
+  
+  "endDate": "2020-09-11T14:00:00Z",
+  
+  
+  "performer": {
+    "@type": "Person",
+    "name": "Jae Yeon Kim"
+  },
+  
+  "description": "D-Lab Data Science Fellows Talk"
+}
+</script>
 
   
 
@@ -301,10 +334,13 @@
   
 
 
+  
 
 
 
-  <title>Integrating Human and Machine Coding to Measure Political Issues in Ethnic Newspaper Articles | Jae Yeon Kim</title>
+
+
+  <title>Tips for Making a Data Science Project Reproducible, Reusable, and Self-contained | Jae Yeon Kim</title>
 
 </head>
 <body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
@@ -630,35 +666,6 @@
         
         
 
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#resources"><span>Resources</span></a>
-        </li>
-
-        
-        
-
       
 
         
@@ -703,7 +710,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Integrating Human and Machine Coding to Measure Political Issues in Ethnic Newspaper Articles</h1>
+  <h1>Tips for Making a Data Science Project Reproducible, Reusable, and Self-contained</h1>
 
   
 
@@ -721,19 +728,11 @@
     
 
   
-  <span >Kim, Jae Yeon</span>
+  <span >Jae Yeon Kim</span>
   </div>
   
   
 
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Apr 30, 2020
-  </span>
   
 
   
@@ -775,37 +774,43 @@
 
 
   
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://osf.io/preprints/socarxiv/pg3aq/" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
 
-  
+
+
+
+
+
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/jaeyk/content-analysis-for-evaluating-ML-performances" target="_blank" rel="noopener">
-  Code
-</a>
+
+
+
+
+  
 
 
 
 
 
-
-
-
-
-
-
-
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://twitter.com/JaeJaeykim2" target="_blank" rel="noopener">
+    <i class="fab fa-twitter mr-1"></i>
+    Follow
+  </a>
 
 
 </div>
@@ -819,23 +824,34 @@
   <div class="article-container">
 
     
-    <h3>Abstract</h3>
-    <p class="pub-abstract">Automating text analysis brings large-scale text data into historical social science research. This feature is especially attractive to the field of racial and ethnic politics, in which historical quantitative data are rare. My integrated text classification framework argues that this computational approach produces more credible outcomes when researchers pay careful attention to humans’ role in the machine learning pipeline. The quality of human-coded training data influences the performance and interpretation of machine-coded corpora. I support this argument with an analysis of political issues that appeared in 78,383 articles from Asian American and African American newspapers issued from the 1960s through the 1980s. Asian American newspapers focused on promoting collective gains more often than African American newspapers. Conversely, African American newspapers concentrated on preventing collective losses more than Asian American newspapers. The misalignment of political agendas between the two corpora widened up to 10 times when the training data were measured using the minimum, rather than the maximum, reliability threshold.</p>
+      <h3>Abstract</h3>
+      <p class="pub-abstract">It is critical for transparency and efficiency to make a data science project computationally reproducible, reusable, and self-contained. Drawing on my two recent projects (see <a href="https://github.com/jaeyk/ITS-Text-Classification">here</a> and <a href="https://github.com/jaeyk/covid19antiasian">here</a>), I will introduce and demonstrate tools and techniques to accomplish these goals. I will then conclude the talk by stressing the importance of code reuse for both practicing and teaching data science.</p>
     
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9">
+            Sep 11, 2020 12:00 PM &mdash; 2:00 PM
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
 
     
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-3 pub-row-heading">Event</div>
           <div class="col-12 col-md-9">
-            
-            
-            <a href="/publication/#3">
-              Preprint
+            <a href="https://berkeley.zoom.us/j/94732717914" target="_blank" rel="noopener">
+            D-Lab Data Science Fellows Talk
             </a>
-            
           </div>
         </div>
       </div>
@@ -849,8 +865,9 @@
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><em>SocArXiv</em></div>
+          <div class="col-12 col-md-3 pub-row-heading">Location</div>
+          <div class="col-12 col-md-9">Zoom</div>
+          
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -860,8 +877,10 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style"><!-- raw HTML omitted -->
-</div>
+    <div class="article-style">
+      <!-- raw HTML omitted -->
+
+    </div>
 
     
 
@@ -904,6 +923,9 @@
 
 
 
+
+  
+  
 
 
 
@@ -1026,6 +1048,16 @@
   
   <div class="container">
     <footer class="site-footer">
+  
+  <p class="powered-by">
+    
+      <a href="/privacy/">Privacy Policy</a>
+    
+    
+       &middot; 
+      <a href="/terms/">Terms</a>
+    
+  </p>
   
 
   <p class="powered-by">

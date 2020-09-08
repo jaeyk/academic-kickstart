@@ -22,7 +22,7 @@ url_pdf = "https://osf.io/preprints/socarxiv/pg3aq/"
 url_code = "https://github.com/jaeyk/content-analysis-for-evaluating-ML-performances"
 # url_dataset = "#"
 # url_project = "#"
-url_slides = "https://slides.com/jaeyeonkim/deck/fullscreen"
+# url_slides = "https://slides.com/jaeyeonkim/deck/fullscreen"
 # url_video = "#"
 
 [[url_custom]]
