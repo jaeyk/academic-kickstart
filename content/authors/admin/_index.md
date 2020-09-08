@@ -75,7 +75,19 @@ user_groups:
 
 I am a computational social scientist, a PhD candidate in Political Science, and a [D-Lab Data Science Fellow](https://dlab.berkeley.edu/people/jae-yeon-kim) at UC Berkeley. I study political learning, organizing, and mobilization among marginalized populations using computational methodologies and building an interconnected database. I also develop research software that makes using text data in social science easier.
 
-My dissertation project uses archival research, statistical modeling, and machine learning to examine how policies shaped minority coalition formation in the US. This project won WPSA's Don T. Nakanishi Award for Distinguished Scholarship and Service in Asian Pacific American Politics. Portions of this work are published in *Studies in American Political Development* and conditionally accepted at the *Journal of Computational Social Science*. My research on bias in machine learning applications appears in *Proceedings of the Fourteenth International Conference on Web and Social Media (ICWSM), Data Challenge Workshop*. I authored and maintain two R packages: [tidytweetjson](https://github.com/jaeyk/tidytweetjson) and [tidyethnicnews](https://github.com/jaeyk/tidyethnicnews)
+**Dissertation Research** 
+
+My dissertation project uses archival research, statistical modeling, and machine learning to examine how policies shaped minority coalition formation in the US. This project won WPSA's Don T. Nakanishi Award for Distinguished Scholarship and Service in Asian Pacific American Politics. Portions of this work are published in *Studies in American Political Development* and conditionally accepted at the *Journal of Computational Social Science*. 
+
+**Other Research** 
+
+My research on bias in machine learning applications appears in *Proceedings of the Fourteenth International Conference on Web and Social Media (ICWSM), Data Challenge Workshop*. 
+
+**Research Software** 
+
+I authored and maintain two R packages: [tidytweetjson](https://github.com/jaeyk/tidytweetjson) and [tidyethnicnews](https://github.com/jaeyk/tidyethnicnews)
+
+**Teaching Computational Social Science** 
 
 I am a proud recipient of the Outstanding Graduate Student Instructor Award. I teach computational social science at both the graduate and undergraduate levels, including semester-long courses and short workshops. I served as a [Data Science Education Program Fellow](https://ocean.sagepub.com/blog/skills/5-principles-to-get-undergraduates-involved-in-real-world-data-science-projects) for the Discovery Program at UC Berkeley and co-organized [the Summer Institute in Computational Social Science in the San Francisco Bay Area](https://compsocialscience.github.io/summer-institute/2020/bay_area/).
 
