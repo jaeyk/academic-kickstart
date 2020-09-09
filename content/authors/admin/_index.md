@@ -77,7 +77,7 @@ I am a computational social scientist, a PhD candidate in Political Science, and
 
 **Dissertation Research** 
 
-My dissertation project uses archival research, statistical modeling, and machine learning to examine how policies shaped minority coalition formation in the US. This project won WPSA's Don T. Nakanishi Award for Distinguished Scholarship and Service in Asian Pacific American Politics. Portions of this work are published in *Studies in American Political Development* and conditionally accepted at the *Journal of Computational Social Science*. 
+My dissertation project uses archival research, statistical modeling, and machine learning to examine how policies shaped minority coalition formation in the US during the era of civil rights. This project won WPSA's Don T. Nakanishi Award for Distinguished Scholarship and Service in Asian Pacific American Politics. Portions of this work are published in *Studies in American Political Development* and conditionally accepted at the *Journal of Computational Social Science*. 
 
 **Other Research** 
 
