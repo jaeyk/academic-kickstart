@@ -73,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-I am a computational social scientist, a PhD candidate in Political Science, and a [D-Lab Data Science Fellow](https://dlab.berkeley.edu/people/jae-yeon-kim) at UC Berkeley. I study political learning, organizing, and mobilization among marginalized populations using computational methodologies and building an interconnected database. I also develop open-source software that makes it easier to use text data in social science research.
+I am a computational social scientist, a PhD candidate in Political Science, and a [D-Lab Data Science Fellow](https://dlab.berkeley.edu/people/jae-yeon-kim) at UC Berkeley. I study political learning, organizing, and mobilization among marginalized populations using a mix of qualitative, statistical, and computational methods. I also develop open-source software that makes it easier to use text data in social science research.
 
 **Dissertation Research** 
 
