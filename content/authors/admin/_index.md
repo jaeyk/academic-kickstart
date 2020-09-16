@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Political Science & Data Science Fellow
+role: PhD Candidate in Political Science & Senior D-Lab Data Science Fellow
 
 # Organizations/Affiliations
 organizations:
