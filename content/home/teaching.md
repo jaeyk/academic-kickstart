@@ -29,8 +29,9 @@ subtitle = ""
 ## Workshops:
 - Co-instructor, [Research Workshop on Computational Tools for Digital Data Collection](https://github.com/jaeyk/digital_data_collection_workshop), Department of Political Science, UC Berkeley, Fall 2020
 - Instructor, D-Lab Workshops, UC Berkeley, Summer 2020 - Present 
-  - [SQL for R Users](https://github.com/dlab-berkeley/sql-for-r-users) 
+  - [SQL for R Users](https://github.com/dlab-berkeley/sql-for-r-users)
   - [R Package Development](https://github.com/dlab-berkeley/R-package-development)
+  - [Functional Programming in R](https://github.com/dlab-berkeley/R-functional-programming)
   - [Advanced Data Wrangling Techniques in R](https://github.com/dlab-berkeley/advanced-data-wrangling-in-R)
   - [Efficient and Reproducible Project Management in R](https://github.com/dlab-berkeley/efficient-reproducible-project-management-in-R)
 - Co-instructor, Data Science Discovery Team Lead Seminar, UC Berkeley, Spring 2020 
