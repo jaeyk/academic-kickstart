@@ -28,19 +28,19 @@ subtitle = ""
 
 ## Workshops:
 - Co-instructor, [Research Workshop on Computational Tools for Digital Data Collection](https://github.com/jaeyk/digital_data_collection_workshop), Department of Political Science, UC Berkeley, Fall 2020
-- Instructor, D-Lab Workshops, UC Berkeley, Summer 2020 - Present 
+- Instructor, D-Lab, UC Berkeley, Summer 2020 - Present 
   - [SQL for R Users](https://github.com/dlab-berkeley/sql-for-r-users)
   - [R Package Development](https://github.com/dlab-berkeley/R-package-development)
   - [Functional Programming in R](https://github.com/dlab-berkeley/R-functional-programming)
   - [Advanced Data Wrangling Techniques in R](https://github.com/dlab-berkeley/advanced-data-wrangling-in-R)
   - [Efficient and Reproducible Project Management in R](https://github.com/dlab-berkeley/efficient-reproducible-project-management-in-R)
-- Co-instructor, Data Science Discovery Team Lead Seminar, UC Berkeley, Spring 2020 
+- Co-instructor, Data Science Discovery Team Lead Seminar, Division of Computing, Data Science, and Society, UC Berkeley, Spring 2020 
   - [Project Management](https://slides.com/jaeyeonkim/how-to-make-a-data-science-project-robust#/)
   - [Computational Reproducibility and Version Control](https://slides.com/jaeyeonkim/how-to-make-a-data-science-project-reproducible#/)
   - [Bias and Fairness in Machine Learning](https://slides.com/jaeyeonkim/how-to-do-responsible-data-science/#/)
   - [Data Communication and Visualization](https://slides.com/jaeyeonkim/how-to-talk-about-data)
 
 ## Mentoring:
-- Graduate fellow, [Data Science Education Program](https://ais.berkeley.edu/departments/data-science-education-program), Division of Computing, Data, and Society, UC Berkeley, Spring 2020
+- Graduate fellow, [Data Science Education Program](https://ais.berkeley.edu/departments/data-science-education-program), Division of Computing, Data Science, and Society, UC Berkeley, Spring 2020
 - Project lead, [Data Science Discovery Program](https://data.berkeley.edu/research/discovery), UC Berkeley, Fall 2019 - Spring 2020
 - Project lead, Undergraduate Research Apprentice Program, UC Berkeley, Fall 2018
