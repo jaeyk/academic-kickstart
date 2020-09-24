@@ -10,11 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Political Science & D-Lab Senior Data Science Fellow
+role: Computational social scientist, Research software developer, and Data science educator 
 
 # Organizations/Affiliations
-organizations:
-- name: UC Berkeley
+# organizations:
+# - name: UC Berkeley & Johns Hopkins University
+
 #  url: "#"
 
 # Short bio (displayed in user profile at end of posts)
@@ -73,7 +74,9 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in Political Science and a [D-Lab Senior Data Science Fellow](https://dlab.berkeley.edu/people/jae-yeon-kim) at UC Berkeley. I study political learning, organizing, and mobilization among marginalized populations using data science. I also build tools that make digital data collection easier and faster.
+I am a computational social scientist, research software developer, and data science educator. 
+
+I am a PhD candidate in Political Science and a [D-Lab Senior Data Science Fellow](https://dlab.berkeley.edu/people/jae-yeon-kim) at UC Berkeley and a Visiting Fellow at P3 Lab at SNF Agora Institute at the Johns Hopkins University. I study political learning, organizing, and mobilization among marginalized populations using data science. I also build tools that make digital data collection easier and faster.
 
 **Dissertation Research** 
 
