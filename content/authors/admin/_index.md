@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Computational social scientist, Research software developer, and Data science educator 
+role: Computational social scientist
 
 # Organizations/Affiliations
-# organizations:
-# - name: UC Berkeley & Johns Hopkins University
+organizations:
+- name: UC Berkeley
 
 #  url: "#"
 
@@ -65,7 +65,7 @@ social:
   link: "static/files/CV_Jae_Yeon_Kim.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "jaeyeonkim@berkeley.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -74,7 +74,7 @@ user_groups:
 - Visitors
 ---
 
-I am a computational social scientist, research software developer, and data science educator. I am a PhD candidate in Political Science and a D-Lab Senior Data Science Fellow at UC Berkeley and a Visiting Fellow at P3 Lab at SNF Agora Institute at the Johns Hopkins University. I study political learning, organizing, and mobilization among marginalized populations using data science. I also build tools that make digital data collection easier and faster.
+I am a PhD candidate in Political Science and a D-Lab Senior Data Science Fellow at UC Berkeley and a Visiting Fellow at P3 Lab at SNF Agora Institute at the Johns Hopkins University. I study political learning, organizing, and mobilization among marginalized populations using data science. I also build tools that make digital data collection easier and faster.
 
 **Dissertation Research** 
 
