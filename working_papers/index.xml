@@ -5,12 +5,21 @@
     <link>https://jaeyk.github.io/working_papers/</link>
       <atom:link href="https://jaeyk.github.io/working_papers/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jaeyk.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_box_center_2.png</url>
       <title>Publications</title>
       <link>https://jaeyk.github.io/working_papers/</link>
     </image>
+    
+    <item>
+      <title>COVID-19 and Asian Americans: How Social Exclusion Shapes Asian American Partisanship</title>
+      <link>https://jaeyk.github.io/working_papers/covid_asian_hate/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://jaeyk.github.io/working_papers/covid_asian_hate/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
     
     <item>
       <title>How Threats Shape the Politics of Marginalized: Evidence from a Natural Experiment and Machine Learning</title>
