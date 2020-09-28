@@ -21,7 +21,7 @@ subtitle = ""
 
 ## Graduate Seminars:
 - Lead instructor, [An Introduction to Computational Tools and Techniques for Social Science Research](https://github.com/jaeyk/PS239T), Department of Political Science, UC Berkeley, Spring 2019, Spring 2021 (scheduled)
-  - [Original online text book (work in progress)](https://jaeyk.github.io/PS239T/)
+  - [Original online textbook (work in progress)](https://jaeyk.github.io/PS239T/)
 - Graduate student instructor for [Rachel Bernhard](http://rachelbernhard.com/), An Introduction to Computational Tools and Techniques for Social Science Research, Department of Political Science, UC Berkeley, Spring 2018 
 
 ## Undergraduate Lectures:
