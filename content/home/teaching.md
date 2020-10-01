@@ -34,8 +34,8 @@ subtitle = ""
   - [SQL for R Users](https://github.com/dlab-berkeley/sql-for-r-users)
   - [R Package Development](https://github.com/dlab-berkeley/R-package-development)
   - [Functional Programming in R](https://github.com/dlab-berkeley/R-functional-programming)
-  - [Advanced Data Wrangling Techniques in R](https://github.com/dlab-berkeley/advanced-data-wrangling-in-R)
-  - [Efficient and Reproducible Project Management in R](https://github.com/dlab-berkeley/efficient-reproducible-project-management-in-R)
+  - [Advanced Data Wrangling in R](https://github.com/dlab-berkeley/advanced-data-wrangling-in-R)
+  - [Reproducible Project Management in R](https://github.com/dlab-berkeley/efficient-reproducible-project-management-in-R)
 - Co-instructor, Data Science Discovery Team Lead Seminar, Division of Computing, Data Science, and Society, UC Berkeley, Spring 2020 
   - [Project Management](https://slides.com/jaeyeonkim/how-to-make-a-data-science-project-robust#/)
   - [Computational Reproducibility and Version Control](https://slides.com/jaeyeonkim/how-to-make-a-data-science-project-reproducible#/)
