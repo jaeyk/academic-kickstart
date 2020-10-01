@@ -12,7 +12,7 @@ math = false
 publication_types = ["3"]
 
 publication = "*SocArXiv*"
-publication_short = "Under review at the *Perspective on Politics*"
+publication_short = "Under review at the *Perspectives on Politics*"
 
 selected = false
 
