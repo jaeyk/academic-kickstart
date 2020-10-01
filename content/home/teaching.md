@@ -37,10 +37,6 @@ subtitle = ""
   - [Advanced Data Wrangling in R](https://github.com/dlab-berkeley/advanced-data-wrangling-in-R)
   - [Reproducible Project Management in R](https://github.com/dlab-berkeley/efficient-reproducible-project-management-in-R)
 - Co-instructor, Data Science Discovery Team Lead Seminar, Division of Computing, Data Science, and Society, UC Berkeley, Spring 2020 
-  - [Project Management](https://slides.com/jaeyeonkim/how-to-make-a-data-science-project-robust#/)
-  - [Computational Reproducibility and Version Control](https://slides.com/jaeyeonkim/how-to-make-a-data-science-project-reproducible#/)
-  - [Bias and Fairness in Machine Learning](https://slides.com/jaeyeonkim/how-to-do-responsible-data-science/#/)
-  - [Data Communication and Visualization](https://slides.com/jaeyeonkim/how-to-talk-about-data)
 
 ## Mentoring:
 - Graduate fellow, [Data Science Education Program](https://ais.berkeley.edu/departments/data-science-education-program), Division of Computing, Data Science, and Society, UC Berkeley, Spring 2020
