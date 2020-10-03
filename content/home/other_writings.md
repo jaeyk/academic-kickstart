@@ -14,7 +14,7 @@ subtitle = ""
 
 +++
 
-Jae Yeon Kim. [Why Teaching Social Scientists How To Code Like A Professional Is Important](https://dlab.berkeley.edu/blog/why-teaching-social-scientists-how-code-professional-important). *UC Berkeley D-Lab*. September 23, 2020.
+Kim, Jae Yeon. [Why Teaching Social Scientists How To Code Like A Professional Is Important.](https://dlab.berkeley.edu/blog/why-teaching-social-scientists-how-code-professional-important) *UC Berkeley D-Lab*. September 23, 2020.
 
 Haber, Jaren, Jae Yeon Kim, and Nick Camp. [BAY-SICSS: Bridging Computational Social Scientists and Practitioners for Social Good.](https://bids.berkeley.edu/news/bay-sicss-bridging-computational-social-scientists-and-practitioners-social-good) *Berkeley Institute of Data Science*. September 15, 2020.
 
