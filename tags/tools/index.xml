@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tools | Jae Yeon Kim</title>
+    <link>https://jaeyk.github.io/tags/tools/</link>
+      <atom:link href="https://jaeyk.github.io/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <description>tools</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jaeyk.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_box_center_2.png</url>
+      <title>tools</title>
+      <link>https://jaeyk.github.io/tags/tools/</link>
+    </image>
+    
+    <item>
+      <title>Large-scale Twitter Analysis on COVID-19 and Anti-Asian Climate</title>
+      <link>https://jaeyk.github.io/project/large_n_twitter_analysis/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jaeyk.github.io/project/large_n_twitter_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Inference Using Text Data and Natural Experiments</title>
+      <link>https://jaeyk.github.io/project/text_for_causal_inference/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jaeyk.github.io/project/text_for_causal_inference/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

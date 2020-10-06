@@ -26,16 +26,20 @@ subtitle = ""
      tag = "text"
   
  [[content.filter_button]]
-     name = "Time-series analysis"
+     name = "Time-series"
      tag = "ts"
   
  [[content.filter_button]]
-     name = "Survey research"
+     name = "Survey"
      tag = "survey"
 
  [[content.filter_button]]
-     name = "Experimental research"
+     name = "Experiment"
      tag = "exp"
+
+ [[content.filter_button]]
+     name = "Social media"
+     tag = "social"
      
  [[content.filter_button]]
      name = "Measurement"
@@ -49,6 +53,10 @@ subtitle = ""
      name = "Machine learning"
      tag = "ml"
 
+ [[content.filter_button]]
+     name = "Data tools"
+     tag = "tools"
+     
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
