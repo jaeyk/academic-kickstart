@@ -13,7 +13,7 @@ image_preview = "time_series_plot.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["text", "ts"]
+tags = ["text", "ts", "data", "ml", "measurement"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://github.com/jaeyk/content-analysis-for-evaluating-ML-performances"

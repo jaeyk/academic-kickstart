@@ -36,6 +36,18 @@ subtitle = ""
  [[content.filter_button]]
      name = "Experimental research"
      tag = "exp"
+     
+ [[content.filter_button]]
+     name = "Measurement"
+     tag = "measurement"
+     
+ [[content.filter_button]]
+     name = "Data infrastructure"
+     tag = "data"
+     
+ [[content.filter_button]]
+     name = "Machine learning"
+     tag = "ml"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

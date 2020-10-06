@@ -13,7 +13,7 @@ image_preview = "cate_comparison_plot.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["survey", "exp"]
+tags = ["survey", "exp", "measurement"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://github.com/jaeyk/analyzing-list-experiments"
