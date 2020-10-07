@@ -26,19 +26,19 @@ subtitle = ""
      tag = "text"
   
  [[content.filter_button]]
-     name = "Time-series"
+     name = "Time-series analysis"
      tag = "ts"
   
  [[content.filter_button]]
-     name = "Survey"
+     name = "Survey research"
      tag = "survey"
 
  [[content.filter_button]]
-     name = "Experiment"
+     name = "Experimental research"
      tag = "exp"
 
  [[content.filter_button]]
-     name = "Social media"
+     name = "Social media analysis"
      tag = "social"
      
  [[content.filter_button]]
