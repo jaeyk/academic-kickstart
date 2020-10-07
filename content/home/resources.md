@@ -14,7 +14,11 @@ subtitle = ""
 
 +++
 
-Mostly online resources I find useful for learning applied statistics, programming, data visualization, machine learning, database management, and math. 
+Mostly online resources I find useful for learning data science, applied statistics, programming, data visualization, machine learning, database management, and math. 
+
+### Data science 
+
+[Advanced Data Science 2020](http://jtleek.com/ads2020/) by Jeff Leek and Roger D. Peng 
 
 ### Applied statistics 
 
