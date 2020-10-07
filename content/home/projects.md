@@ -26,15 +26,15 @@ subtitle = ""
      tag = "text"
   
  [[content.filter_button]]
-     name = "Time-series data analysis"
+     name = "Time-series analysis"
      tag = "ts"
   
  [[content.filter_button]]
-     name = "Survey data analysis"
+     name = "Survey design"
      tag = "survey"
 
  [[content.filter_button]]
-     name = "Experimental data analysis"
+     name = "Experimental design"
      tag = "exp"
 
  [[content.filter_button]]
