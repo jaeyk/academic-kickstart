@@ -14,31 +14,31 @@ subtitle = ""
 
 +++
 
-Mostly online resources I find useful for learning data science, applied statistics, programming, data visualization, machine learning, database management, and math. 
+Mostly online resources (indicated by *) I find useful for learning data science, applied statistics, programming, data visualization, machine learning, database management, and math. 
 
 ### Data science 
 
-- [Advanced Data Science 2020](http://jtleek.com/ads2020/) by Jeff Leek and Roger D. Peng 
+- [Advanced Data Science 2020*](http://jtleek.com/ads2020/) by Jeff Leek and Roger D. Peng 
 
 ### Applied statistics 
 
-- [Moden Statistics for Modern Biology](https://www.huber.embl.de/msmb/) by Susan Holmes and Wolfgang Huber
+- [Moden Statistics for Modern Biology*](https://www.huber.embl.de/msmb/) by Susan Holmes and Wolfgang Huber
 - [Mathematical Statistics with Resampling and R](https://www.amazon.com/Mathematical-Statistics-Resampling-Laura-Chihara/dp/1118029852) by Laura M. Chihara and Tim C. Hesterberg 
-- [Quantitative Social Science Methods](https://www.youtube.com/playlist?list=PLmpS1iNDaUFtat0QiqXZhlsAgseWtJ1Kk) by Gary King 
-- [MSE125: Applied Statistics](https://5harad.com/mse125/) by Sharad Goel 
-- [STAT215A: Applied Statistics](https://github.com/rlbarter/STAT-215A-Fall-2017) by Bin Yu and Rebecca Barter 
-- [36-402: Undergraduate Advanced Data Analytics](http://www.stat.cmu.edu/~cshalizi/uADA/17/) by Cosma Shalizi 
+- [Quantitative Social Science Methods*](https://www.youtube.com/playlist?list=PLmpS1iNDaUFtat0QiqXZhlsAgseWtJ1Kk) by Gary King 
+- [MSE125: Applied Statistics*](https://5harad.com/mse125/) by Sharad Goel 
+- [STAT215A: Applied Statistics*](https://github.com/rlbarter/STAT-215A-Fall-2017) by Bin Yu and Rebecca Barter 
+- [36-402: Undergraduate Advanced Data Analytics*](http://www.stat.cmu.edu/~cshalizi/uADA/17/) by Cosma Shalizi 
 
 ### Programming 
 
 #### R programming 
 
-- [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham 
-- [Advanced R](https://adv-r.hadley.nz/) by Hadley Wickham 
-- [36-350: Statistical Computing](http://www.stat.cmu.edu/~cshalizi/statcomp/14/) by Cosma Shalizi and Andrew Thomas 
-- [Statistical Computing](https://statistics.berkeley.edu/computing/training/tutorials) by Chris Paciorek and Jarrod Millman
-- [EC607: Data Science for Economists](https://github.com/uo-ec607/lectures#data-science-for-economists) by Grant McDermott 
-- [STAT545: Data wrangling, exploration, and analysis with R](https://stat545.com/) by Jenny Bryan and the STAT 545 TAs
+- [R for Data Science*](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham 
+- [Advanced R*](https://adv-r.hadley.nz/) by Hadley Wickham 
+- [36-350: Statistical Computing*](http://www.stat.cmu.edu/~cshalizi/statcomp/14/) by Cosma Shalizi and Andrew Thomas 
+- [Statistical Computing*](https://statistics.berkeley.edu/computing/training/tutorials) by Chris Paciorek and Jarrod Millman
+- [EC607: Data Science for Economists*](https://github.com/uo-ec607/lectures#data-science-for-economists) by Grant McDermott 
+- [STAT545: Data wrangling, exploration, and analysis with R*](https://stat545.com/) by Jenny Bryan and the STAT 545 TAs
 
 #### Programming in general 
 
@@ -48,30 +48,30 @@ Mostly online resources I find useful for learning data science, applied statist
 
 ### Data visualization
 
-- [Data Visualization](https://socviz.co/) by Kieran Healy 
+- [Data Visualization*](https://socviz.co/) by Kieran Healy 
 
 ### Machine learning 
 
 #### Intro to Machine Learning 
-- [Machine Learning](https://www.coursera.org/courses?query=machine%20learning%20andrew%20ng) by Andrew Ng
-- [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/) by vas3k.com
-- [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+- [Machine Learning*](https://www.coursera.org/courses?query=machine%20learning%20andrew%20ng) by Andrew Ng
+- [Machine Learning for Everyone*](https://vas3k.com/blog/machine_learning/) by vas3k.com
+- [Google Machine Learning Crash Course*](https://developers.google.com/machine-learning/crash-course/)
 
 #### Intro to Deep learning 
-- [www.deeplearningbook.org](https://www.deeplearningbook.org/) by Aaron Courville, Ian Goodfellow, and Yoshua Bengio
-- [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) by Alexander Amini and Ava Soleimany
-- [fast.ai - Practical Deep Learning for Coders](https://course.fast.ai/)
-- [Kaggle Deep Learning](https://www.kaggle.com/learn/deep-learning)
+- [www.deeplearningbook.org*](https://www.deeplearningbook.org/) by Aaron Courville, Ian Goodfellow, and Yoshua Bengio
+- [MIT 6.S191: Introduction to Deep Learning*](http://introtodeeplearning.com/) by Alexander Amini and Ava Soleimany
+- [fast.ai - Practical Deep Learning for Coders*](https://course.fast.ai/)
+- [Kaggle Deep Learning*](https://www.kaggle.com/learn/deep-learning)
 
 #### Machine learning in R
-- [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/) by Bradley Boehmke and Brandon Greenwell
-- [mlr3 book](https://mlr3book.mlr-org.com/) by Michel Lang, Patrick Schratz, Martin Binder, Florian Pfisterer, Jakob Richter, Nicholas G. Reich, and Bernd Bischl
-- [Tidy Modeling with R](https://www.tmwr.org/) by Max Kuhn and Julia Silge
-- [Deep Learning in R](https://www.manning.com/books/deep-learning-with-r) by François Chollet and Joseph J. Allaire
+- [Hands-On Machine Learning with R*](https://bradleyboehmke.github.io/HOML/) by Bradley Boehmke and Brandon Greenwell
+- [mlr3 book*](https://mlr3book.mlr-org.com/) by Michel Lang, Patrick Schratz, Martin Binder, Florian Pfisterer, Jakob Richter, Nicholas G. Reich, and Bernd Bischl
+- [Tidy Modeling with R*](https://www.tmwr.org/) by Max Kuhn and Julia Silge
+- [Deep Learning in R*](https://www.manning.com/books/deep-learning-with-r) by François Chollet and Joseph J. Allaire
 
 #### Applications 
-- [Machine Learning and Econometrics](https://www.aeaweb.org/conference/cont-ed/2018-webcasts) by Susan Athey and Guido Imbens
-- [Applied Predictive Modeling](http://appliedpredictivemodeling.com/) by Max Kuhn and Kjell Johnson
+- [Machine Learning and Econometrics*](https://www.aeaweb.org/conference/cont-ed/2018-webcasts) by Susan Athey and Guido Imbens
+- [Applied Predictive Modeling*](http://appliedpredictivemodeling.com/) by Max Kuhn and Kjell Johnson
 
 ### Database 
 
