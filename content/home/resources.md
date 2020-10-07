@@ -42,6 +42,10 @@ Mostly online resources (indicated by *) I find useful for learning data science
 - [EC607: Data Science for Economists*](https://github.com/uo-ec607/lectures#data-science-for-economists) by Grant McDermott 
 - [STAT545: Data wrangling, exploration, and analysis with R*](https://stat545.com/) by Jenny Bryan and the STAT 545 TAs
 
+#### Python programming 
+
+- [pandas-cookbook*](https://github.com/jvns/pandas-cookbook) by Julia Evans 
+
 #### Programming in general 
 
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/gp/product/B003GCTQAE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) by Hunt Andrew and Thomas David 
