@@ -63,7 +63,7 @@ Mostly online resources I find useful for learning applied statistics, programmi
 - [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/) by Bradley Boehmke and Brandon Greenwell
 - [mlr3 book](https://mlr3book.mlr-org.com/) by Michel Lang, Patrick Schratz, Martin Binder, Florian Pfisterer, Jakob Richter, Nicholas G. Reich, and Bernd Bischl
 - [Tidy Modeling with R](https://www.tmwr.org/) by Max Kuhn and Julia Silge
-- [Deep Learning in R](https://www.manning.com/books/deep-learning-with-r) by F. Chollet and J.J. Allaire
+- [Deep Learning in R](https://www.manning.com/books/deep-learning-with-r) by François Chollet and Joseph J. Allaire
 
 #### Applications 
 - [Machine Learning and Econometrics](https://www.aeaweb.org/conference/cont-ed/2018-webcasts) by Susan Athey and Guido Imbens
