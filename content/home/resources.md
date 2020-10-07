@@ -19,6 +19,7 @@ Mostly online resources (indicated by *) I find useful for learning data science
 ### Data science 
 
 - [Advanced Data Science 2020*](http://jtleek.com/ads2020/) by Jeff Leek and Roger D. Peng 
+- [Learning Lab](https://lab.github.com/) by GitHub
 
 ### Applied statistics 
 
