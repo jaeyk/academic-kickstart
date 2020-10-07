@@ -2,7 +2,7 @@
 # Blank widget.
 widget = "blank"
 headless = true
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 200  # Order that this section will appear.
 
 title = "Resources"
@@ -14,66 +14,68 @@ subtitle = ""
 
 +++
 
-Online resources I find useful for self-learning and professional development.
+Mostly online resources I find useful for learning applied statistics, programming, data visualization, machine learning, database management, and math. 
 
-## **Self-learning**
+### Applied statistics 
 
-### Tools
+- [Moden Statistics for Modern Biology](https://www.huber.embl.de/msmb/) by Susan Holmes and Wolfgang Huber
+- [Mathematical Statistics with Resampling and R](https://www.amazon.com/Mathematical-Statistics-Resampling-Laura-Chihara/dp/1118029852) by Laura M. Chihara and Tim C. Hesterberg 
+- [Quantitative Social Science Methods](https://www.youtube.com/playlist?list=PLmpS1iNDaUFtat0QiqXZhlsAgseWtJ1Kk) by Gary King 
+- [MSE125: Applied Statistics](https://5harad.com/mse125/) by Sharad Goel 
+- [STAT215A: Applied Statistics](https://github.com/rlbarter/STAT-215A-Fall-2017) by Bin Yu and Rebecca Barter 
+- [36-402: Undergraduate Advanced Data Analytics](http://www.stat.cmu.edu/~cshalizi/uADA/17/) by Cosma Shalizi 
+
+### Programming 
 
 #### R programming 
 
-- [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickam 
-- [Advanced R](https://adv-r.hadley.nz/) by Hadley Wickam 
-- [Statistical Computing](http://www.stat.cmu.edu/~cshalizi/statcomp/14/) by Cosma Shalizi and Andrew Thomas 
+- [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham 
+- [Advanced R](https://adv-r.hadley.nz/) by Hadley Wickham 
+- [36-350: Statistical Computing](http://www.stat.cmu.edu/~cshalizi/statcomp/14/) by Cosma Shalizi and Andrew Thomas 
 - [Statistical Computing](https://statistics.berkeley.edu/computing/training/tutorials) by Chris Paciorek and Jarrod Millman
-- [Data Science for Economists](https://github.com/uo-ec607/lectures#data-science-for-economists) by Grant McDermott 
+- [EC607: Data Science for Economists](https://github.com/uo-ec607/lectures#data-science-for-economists) by Grant McDermott 
+- [STAT545: Data wrangling, exploration, and analysis with R](https://stat545.com/) by Jenny Bryan and the STAT 545 TAs
 
-#### Data visualization
+#### Programming in general 
+
+- [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/gp/product/B003GCTQAE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) by Hunt Andrew and Thomas David 
+- [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/gp/product/B07LCM8RG2/ref=ppx_yo_dt_b_d_asin_title_o09?ie=UTF8&psc=1) by Fowler Martin
+- [How to Speak Machine: Computational Thinking for the Rest of Us](https://www.amazon.com/dp/B07PCLSQ6K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by John Maeda 
+
+### Data visualization
 
 - [Data Visualization](https://socviz.co/) by Kieran Healy 
 
-### Methods
+### Machine learning 
 
-#### Machine learning 
+#### Intro to Machine Learning 
+- [Machine Learning](https://www.coursera.org/courses?query=machine%20learning%20andrew%20ng) by Andrew Ng
+- [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/) by vas3k.com
+- [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
-- [Machine Learning and Econometrics](https://www.aeaweb.org/conference/cont-ed/2018-webcasts) by Susan Athey and Guido Imbens
-- [Machine Learning](https://www.coursera.org/courses?query=machine%20learning%20andrew%20ng) by Andrew Ng 
-- [Applied Predictive Modeling](http://appliedpredictivemodeling.com/) by Max Kuhn and Kjell Johnson
-- [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/) by Bradley Boehmke & Brandon Greenwell
+#### Intro to Deep learning 
+- [www.deeplearningbook.org](https://www.deeplearningbook.org/) by Aaron Courville, Ian Goodfellow, and Yoshua Bengio
+- [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) by Alexander Amini and Ava Soleimany
+- [fast.ai - Practical Deep Learning for Coders](https://course.fast.ai/)
+- [Kaggle Deep Learning](https://www.kaggle.com/learn/deep-learning)
+
+#### Machine learning in R
+- [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/) by Bradley Boehmke and Brandon Greenwell
 - [mlr3 book](https://mlr3book.mlr-org.com/) by Michel Lang, Patrick Schratz, Martin Binder, Florian Pfisterer, Jakob Richter, Nicholas G. Reich, and Bernd Bischl
+- [Tidy Modeling with R](https://www.tmwr.org/) by Max Kuhn and Julia Silge
+- [Deep Learning in R](https://www.manning.com/books/deep-learning-with-r) by F. Chollet and J.J. Allaire
 
-#### Applied statistics 
+#### Applications 
+- [Machine Learning and Econometrics](https://www.aeaweb.org/conference/cont-ed/2018-webcasts) by Susan Athey and Guido Imbens
+- [Applied Predictive Modeling](http://appliedpredictivemodeling.com/) by Max Kuhn and Kjell Johnson
 
-- [Quantitative Social Science Methods](https://www.youtube.com/playlist?list=PLmpS1iNDaUFtat0QiqXZhlsAgseWtJ1Kk) by Gary King 
-- [Applied Statistics](https://5harad.com/mse125/) by Sharad Goel 
-- [Applied Statistics](https://github.com/rlbarter/STAT-215A-Fall-2017) by Bin Yu and Rebecca Barter 
-- [Undergraduate Advanced Data Analytics](http://www.stat.cmu.edu/~cshalizi/uADA/17/) by Cosma Shalizi 
+### Database 
 
-## **Professional development**
+- [PostgreSQL: Up and Running: A Practical Guide to the Advanced Open Source Database](https://www.amazon.com/gp/product/B076C4WLBP/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) by Regina O. Obe and Leo S. Hsu
+- [MongoDB: The Definitive Guide: Powerful and Scalable Data Storage](https://www.amazon.com/gp/product/B082J7DMBX/ref=ppx_yo_dt_b_d_asin_title_o03?ie=UTF8&psc=1) by Shannon Bradshaw, Eoin Brazil, and Kristina Chodorow 
+- [Database Internals: A Deep Dive into How Distributed Data Systems Work](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems-ebook/dp/B07XW76VHZ/ref=sr_1_1?dchild=1&keywords=database&qid=1602085126&s=digital-text&sr=1-1) by Alex Petrov 
+- [Concise Guide to Databases: A Practical Introduction](https://www.amazon.com/gp/product/B00GV38QL0/ref=ppx_yo_dt_b_d_asin_title_o04?ie=UTF8&psc=1) by Peter Lake and Paul Crowther
 
-### Teaching tools 
+### Math
 
-- [binder](https://mybinder.org/) by Binder community  
-
-- [GitHub & BitBucket HTML Preview](https://github.com/htmlpreview/htmlpreview.github.com) by niu tech  
-
-### Presentation tools 
-
-- [Sharing Your xaringan Slides](https://www.garrickadenbuie.com/blog/sharing-xaringan-slides/) by Garrick Aden‑Buie
-
-### Publication tips
-
-- [Ten Simple Rules for Writing a Response to Reviewers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005730) by William Stafford Noble
-
-### Job market tips 
-
-#### Academic
-
-- [Academic Job Market Advice for Economics, Political Science, Public Policy, and Other Professional Schools](https://chrisblattman.com/job-market/) by Chris Blattman
-- [CV Guide](https://economics.harvard.edu/files/economics/files/cv_guide_2016.pdf) by Harvard Economics Department 
-- [Tips for Job Market](https://economics.harvard.edu/files/economics/files/jobmarketadvicehandout.doc.pdf) by David Laibson 
-- [Instructions to Ask a Letter of Recommendation](https://scholar.princeton.edu/bstewart/recommendation) by Brandon Stewart
-
-#### Non-academic
-
-- [My Personal Formula for a Winning Resume](https://www.linkedin.com/pulse/20140929001534-24454816-my-personal-formula-for-a-better-resume/) by Laszlo Bock 
+- [Coding the Matrix: Linear Algebra through Computer Science Applications](https://www.amazon.com/Coding-Matrix-Algebra-Computer-Applications-ebook/dp/B00VSN9NHY/ref=msx_wsirn_v1_3/139-1288150-1994460?_encoding=UTF8&pd_rd_i=B00VSN9NHY&pd_rd_r=95c6bfb5-4fb6-4ac0-9e86-0dde2fd38ec7&pd_rd_w=7KG33&pd_rd_wg=4IUjX&pf_rd_p=77bfbfb0-a9eb-4e71-8d50-7ac5425f6fa1&pf_rd_r=V5PSVK5J3QEC09CPTB6T&psc=1&refRID=V5PSVK5J3QEC09CPTB6T) by Philip Klein 
