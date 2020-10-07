@@ -18,7 +18,7 @@ Mostly online resources I find useful for learning data science, applied statist
 
 ### Data science 
 
-[Advanced Data Science 2020](http://jtleek.com/ads2020/) by Jeff Leek and Roger D. Peng 
+- [Advanced Data Science 2020](http://jtleek.com/ads2020/) by Jeff Leek and Roger D. Peng 
 
 ### Applied statistics 
 
