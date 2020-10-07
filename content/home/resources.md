@@ -19,7 +19,8 @@ Mostly online resources (indicated by *) I find useful for learning data science
 ### Data science 
 
 - [Advanced Data Science 2020*](http://jtleek.com/ads2020/) by Jeff Leek and Roger D. Peng 
-- [Learning Lab](https://lab.github.com/) by GitHub
+- [Learning Lab*](https://lab.github.com/) by GitHub
+- [Veridical data science*](https://bids.berkeley.edu/sites/default/files/2020-0213-yu-kumbier-veridical-data-science-plus-qnas.pdf) by Bin Yu and Karl Kumbier
 
 ### Applied statistics 
 
@@ -54,6 +55,7 @@ Mostly online resources (indicated by *) I find useful for learning data science
 ### Machine learning 
 
 #### Intro to Machine Learning 
+- [Statistical Modeling: The Two Cultures (with comments and a rejoinder by the author)*](https://projecteuclid.org/euclid.ss/1009213726) by Leo Breiman
 - [Machine Learning*](https://www.coursera.org/courses?query=machine%20learning%20andrew%20ng) by Andrew Ng
 - [Machine Learning for Everyone*](https://vas3k.com/blog/machine_learning/) by vas3k.com
 - [Google Machine Learning Crash Course*](https://developers.google.com/machine-learning/crash-course/)
