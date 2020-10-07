@@ -52,10 +52,6 @@ subtitle = ""
  [[content.filter_button]]
      name = "Machine learning"
      tag = "ml"
-
- [[content.filter_button]]
-     name = "Data tools"
-     tag = "tools"
      
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

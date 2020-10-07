@@ -13,7 +13,7 @@ image_preview = "its_adjusted_plot.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["text", "ts", "ml", "tools"]
+tags = ["text", "ts", "ml"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://github.com/jaeyk/ITS-Text-Classification"
