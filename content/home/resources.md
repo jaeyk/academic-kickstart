@@ -41,15 +41,21 @@ Mostly online resources (indicated by *) I find useful for learning data science
 - [Statistical Computing*](https://statistics.berkeley.edu/computing/training/tutorials) by Chris Paciorek and Jarrod Millman
 - [EC607: Data Science for Economists*](https://github.com/uo-ec607/lectures#data-science-for-economists) by Grant McDermott 
 - [STAT545: Data wrangling, exploration, and analysis with R*](https://stat545.com/) by Jenny Bryan and the STAT 545 TAs
+- [Mastering Software Development in R](https://leanpub.com/msdr) by Roger D. Peng, Sean Kross, and Brooke Anderson
 
 #### Python programming 
 
 - [pandas-cookbook*](https://github.com/jvns/pandas-cookbook) by Julia Evans 
 
+#### UNIX programming 
+
+- [The Unix Workbench*](https://seankross.com/the-unix-workbench/) by Sean Kross
+
 #### Programming in general 
 
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/gp/product/B003GCTQAE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) by Hunt Andrew and Thomas David 
 - [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/gp/product/B07LCM8RG2/ref=ppx_yo_dt_b_d_asin_title_o09?ie=UTF8&psc=1) by Fowler Martin
+- [Developing Data Products](https://leanpub.com/ddp) by Brian Caffo and Sean Kross
 - [How to Speak Machine: Computational Thinking for the Rest of Us](https://www.amazon.com/dp/B07PCLSQ6K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by John Maeda 
 
 ### Data visualization
