@@ -21,6 +21,7 @@ Mostly online resources (indicated by *) I find useful for learning data science
 - [Advanced Data Science 2020*](http://jtleek.com/ads2020/) by Jeff Leek and Roger D. Peng 
 - [Learning Lab*](https://lab.github.com/) by GitHub
 - [Veridical data science*](https://bids.berkeley.edu/sites/default/files/2020-0213-yu-kumbier-veridical-data-science-plus-qnas.pdf) by Bin Yu and Karl Kumbier
+- [S, R, and Data Science*](https://journal.r-project.org/archive/2020/RJ-2020-028/RJ-2020-028.pdf) by John M. Chambers 
 
 ### Applied statistics 
 
