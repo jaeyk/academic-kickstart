@@ -39,12 +39,13 @@ Mostly online resources (indicated by *) I find useful for learning data science
 - [R for Data Science*](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham 
 - [Advanced R*](https://adv-r.hadley.nz/) by Hadley Wickham 
 - [Reproducibility and literate programming in R](https://exeter-data-analytics.github.io/LitProg/index.html) by TJ McKinley
-- [36-350: Statistical Computing*](http://www.stat.cmu.edu/~cshalizi/statcomp/14/) by Cosma Shalizi and Andrew Thomas 
+- [Mastering Software Development in R](https://leanpub.com/msdr) by Roger D. Peng, Sean Kross, and Brooke Anderson
+- [R Markdown Cookbook*](https://bookdown.org/yihui/rmarkdown-cookbook/) by Yihui Xie, Christophe Dervieux, Emily Riederer
+- [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/) by Julia Silge and David Robinson
+- [36-350: Statistical Computing*](http://www.stat.cmu.edu/~cshalizi/statcomp/14/) by Cosma Shalizi and Andrew Thomas
 - [Statistical Computing*](https://statistics.berkeley.edu/computing/training/tutorials) by Chris Paciorek and Jarrod Millman
 - [EC607: Data Science for Economists*](https://github.com/uo-ec607/lectures#data-science-for-economists) by Grant McDermott 
 - [STAT545: Data wrangling, exploration, and analysis with R*](https://stat545.com/) by Jenny Bryan and the STAT 545 TAs
-- [Mastering Software Development in R](https://leanpub.com/msdr) by Roger D. Peng, Sean Kross, and Brooke Anderson
-- [R Markdown Cookbook*](https://bookdown.org/yihui/rmarkdown-cookbook/) by Yihui Xie, Christophe Dervieux, Emily Riederer
 
 #### Python programming 
 
