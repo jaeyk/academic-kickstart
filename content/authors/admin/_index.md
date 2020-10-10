@@ -86,7 +86,7 @@ My research on bias in machine learning applications appears in *Proceedings of 
 
 **Research Software** 
 
-I authored and maintain two R packages: [tidytweetjson](https://github.com/jaeyk/tidytweetjson) and [tidyethnicnews](https://github.com/jaeyk/tidyethnicnews)
+I authored and maintain three R packages: [tidytweetjson](https://jaeyk.github.io/tidytweetjson/), [tidyethnicnews](https://jaeyk.github.io/tidyethnicnews/), and [makereproducible](https://jaeyk.github.io/makereproducible/)
 
 **Teaching Computational Social Science** 
 
