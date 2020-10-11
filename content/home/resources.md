@@ -60,6 +60,8 @@ Mostly online resources (indicated by *) I find useful for learning data science
 
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/gp/product/B003GCTQAE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) by Hunt Andrew and Thomas David 
 - [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/gp/product/B07LCM8RG2/ref=ppx_yo_dt_b_d_asin_title_o09?ie=UTF8&psc=1) by Fowler Martin
+- [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) by Erich Gamma, John Vlissides, Richard Helm, and Ralph Johnson
+- [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=pd_lpo_14_t_2/134-5386548-7071867?_encoding=UTF8&pd_rd_i=0132350882&pd_rd_r=fe997b88-1bf4-4f56-b7a1-2e1dc642545d&pd_rd_w=Kqtep&pd_rd_wg=JDFc9&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=3X94WM846DV6WY8J15AZ&psc=1&refRID=3X94WM846DV6WY8J15AZ) by Robert Martin
 - [Developing Data Products](https://leanpub.com/ddp) by Brian Caffo and Sean Kross
 - [How to Speak Machine: Computational Thinking for the Rest of Us](https://www.amazon.com/dp/B07PCLSQ6K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by John Maeda 
 
