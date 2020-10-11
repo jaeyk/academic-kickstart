@@ -49,6 +49,7 @@ Mostly online resources (indicated by *) I find useful for learning data science
 
 #### Python programming 
 
+- [python-bootcamp*](https://github.com/profjsb/python-bootcamp/tree/master/Lectures) by Joshua Bloom 
 - [pandas-cookbook*](https://github.com/jvns/pandas-cookbook) by Julia Evans 
 
 #### UNIX programming 
