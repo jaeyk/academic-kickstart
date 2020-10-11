@@ -74,7 +74,7 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in Political Science and a D-Lab Senior Data Science Fellow at UC Berkeley and a Visiting Fellow at P3 Lab at SNF Agora Institute at Johns Hopkins University. I study political learning, organizing, and mobilization among marginalized populations using data science. I also build tools that make digital data collection easier and faster.
+I am a PhD candidate in Political Science and D-Lab Senior Data Science Fellow at UC Berkeley and Visiting Fellow at P3 Lab at SNF Agora Institute at Johns Hopkins University. I study political learning, organizing, and mobilization among marginalized populations using data science. I also build tools that make digital data collection easier and faster.
 
 **Dissertation Research** 
 
