@@ -70,6 +70,7 @@ Mostly online resources (indicated by *) I find useful for learning data science
 ### Data visualization
 
 - [Data Visualization*](https://socviz.co/) by Kieran Healy 
+- [Data Visualization with R*](https://rkabacoff.github.io/datavis/) by Rob Kabacoff
 
 ### Machine learning 
 
