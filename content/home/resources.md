@@ -69,6 +69,7 @@ Mostly online resources (indicated by *) I find useful for learning data science
 
 ### Data visualization
 
+- [R Econ Visual Library*](https://worldbank.github.io/r-econ-visual-library/) by the World Bank's impact evaluation department (DIME) 
 - [Data Visualization*](https://socviz.co/) by Kieran Healy 
 - [Data Visualization with R*](https://rkabacoff.github.io/datavis/) by Rob Kabacoff
 
