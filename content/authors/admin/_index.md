@@ -92,7 +92,7 @@ I authored and maintain three R packages: [tidytweetjson](https://jaeyk.github.i
 
 I am a proud recipient of the "Outstanding Graduate Student Instructor Award" and have taught computational social science at both graduate and undergraduate levels in semester-long courses and short workshops. I have served as a [Data Science Education Program Fellow](https://ocean.sagepub.com/blog/skills/5-principles-to-get-undergraduates-involved-in-real-world-data-science-projects) at UC Berkeley and advised more than 40 applied data science projects, working with community partners and undergraduate students. I also co-organized the [Summer Institute in Computational Social Science in the San Francisco Bay Area](https://bids.berkeley.edu/news/bay-sicss-bridging-computational-social-scientists-and-practitioners-social-good) with a thematic focus on using computational social science for social good. I am currently working on a book project titled ["Computational Thinking for Social Scientists."](https://jaeyk.github.io/PS239T/)
 
-## Contact me  
+**Contact me**
 
 I love getting emails. 
 
