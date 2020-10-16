@@ -31,6 +31,7 @@ subtitle = ""
 - Co-instructor, [Research Workshop on Computational Tools for Digital Data Collection](https://github.com/jaeyk/digital_data_collection_workshop), Department of Political Science, UC Berkeley, Fall 2020
 - Instructor, D-Lab, UC Berkeley, Summer 2020 - Present 
   - [Machine Learning with Tidymodels](https://github.com/dlab-berkeley/Machine-Learning-with-tidymodels)
+  - [Fairness and Bias in Machine Learning](https://dlab-berkeley.github.io/fairML/)
   - [SQL for R Users](https://github.com/dlab-berkeley/sql-for-r-users)
   - [R Package Development](https://github.com/dlab-berkeley/R-package-development)
   - [Functional Programming in R](https://github.com/dlab-berkeley/R-functional-programming)
