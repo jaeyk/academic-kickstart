@@ -101,6 +101,7 @@ Mostly online resources (indicated by *) I find useful for learning data science
 
 - [PostgreSQL: Up and Running: A Practical Guide to the Advanced Open Source Database](https://www.amazon.com/gp/product/B076C4WLBP/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) by Regina O. Obe and Leo S. Hsu
 - [MongoDB: The Definitive Guide: Powerful and Scalable Data Storage](https://www.amazon.com/gp/product/B082J7DMBX/ref=ppx_yo_dt_b_d_asin_title_o03?ie=UTF8&psc=1) by Shannon Bradshaw, Eoin Brazil, and Kristina Chodorow 
+- [Mastering Spark with R*](https://therinspark.com/) by Javier Luraschi, Kevin Kuo, and Edgar Ruiz
 - [Database Internals: A Deep Dive into How Distributed Data Systems Work](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems-ebook/dp/B07XW76VHZ/ref=sr_1_1?dchild=1&keywords=database&qid=1602085126&s=digital-text&sr=1-1) by Alex Petrov 
 - [Concise Guide to Databases: A Practical Introduction](https://www.amazon.com/gp/product/B00GV38QL0/ref=ppx_yo_dt_b_d_asin_title_o04?ie=UTF8&psc=1) by Peter Lake and Paul Crowther
 
