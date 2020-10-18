@@ -26,7 +26,7 @@ Mostly online resources (indicated by *) I find useful for learning data science
 ### Applied statistics 
 
 - [Modern Statistics for Modern Biology*](https://www.huber.embl.de/msmb/) by Susan Holmes and Wolfgang Huber
-- [Statisical Inference via Data Science: A ModernDive into R and the Tidyverse](https://moderndive.com/) by Chester Ismay and Albert Y. Kim
+- [Statisical Inference via Data Science: A ModernDive into R and the Tidyverse*](https://moderndive.com/) by Chester Ismay and Albert Y. Kim
 - [Mathematical Statistics with Resampling and R](https://www.amazon.com/Mathematical-Statistics-Resampling-Laura-Chihara/dp/1118029852) by Laura M. Chihara and Tim C. Hesterberg 
 - [Gov2001: Quantitative Social Science Methods*](https://www.youtube.com/playlist?list=PL0n492lUg2sgSevEQ3bLilGbFph4l92gH) by Gary King 
 - [MSE125: Applied Statistics*](https://5harad.com/mse125/) by Sharad Goel 
