@@ -78,19 +78,23 @@ Mostly online resources (indicated by *) I find useful for learning data science
 ### Machine learning 
 
 #### Intro to Machine Learning 
+
 - [Statistical Modeling: The Two Cultures (with comments and a rejoinder by the author)*](https://projecteuclid.org/euclid.ss/1009213726) by Leo Breiman
 - [Machine Learning*](https://www.coursera.org/courses?query=machine%20learning%20andrew%20ng) by Andrew Ng
 - [Machine Learning for Everyone*](https://vas3k.com/blog/machine_learning/) by vas3k.com
 - [Google Machine Learning Crash Course*](https://developers.google.com/machine-learning/crash-course/)
 - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable*](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
+- [Fairness and machine learning: Limitations and Opportunities*](https://fairmlbook.org/) by Solon Barocas, Moritz Hardt, Arvind Narayanan
 
 #### Intro to Deep learning 
+
 - [www.deeplearningbook.org*](https://www.deeplearningbook.org/) by Aaron Courville, Ian Goodfellow, and Yoshua Bengio
 - [MIT 6.S191: Introduction to Deep Learning*](http://introtodeeplearning.com/) by Alexander Amini and Ava Soleimany
 - [fast.ai - Practical Deep Learning for Coders*](https://course.fast.ai/)
 - [Kaggle Deep Learning*](https://www.kaggle.com/learn/deep-learning)
 
 #### Machine learning in R
+
 - [Hands-On Machine Learning with R*](https://bradleyboehmke.github.io/HOML/) by Bradley Boehmke and Brandon Greenwell
 - [mlr3 book*](https://mlr3book.mlr-org.com/) by Michel Lang, Patrick Schratz, Martin Binder, Florian Pfisterer, Jakob Richter, Nicholas G. Reich, and Bernd Bischl
 - [H2O Tutorials*](http://docs.h2o.ai/h2o-tutorials/latest-stable/index.html) by H2O.ai
@@ -98,6 +102,7 @@ Mostly online resources (indicated by *) I find useful for learning data science
 - [Deep Learning in R*](https://www.manning.com/books/deep-learning-with-r) by François Chollet and Joseph J. Allaire
 
 #### Machine learning applications 
+
 - [Machine Learning and Econometrics*](https://www.aeaweb.org/conference/cont-ed/2018-webcasts) by Susan Athey and Guido Imbens
 - [Applied Predictive Modeling*](http://appliedpredictivemodeling.com/) by Max Kuhn and Kjell Johnson
 
