@@ -92,6 +92,7 @@ Mostly online resources (indicated by *) I find useful for learning data science
 #### Machine learning in R
 - [Hands-On Machine Learning with R*](https://bradleyboehmke.github.io/HOML/) by Bradley Boehmke and Brandon Greenwell
 - [mlr3 book*](https://mlr3book.mlr-org.com/) by Michel Lang, Patrick Schratz, Martin Binder, Florian Pfisterer, Jakob Richter, Nicholas G. Reich, and Bernd Bischl
+- [H2O Tutorials](http://docs.h2o.ai/h2o-tutorials/latest-stable/index.html) by H2O.ai
 - [Tidy Modeling with R*](https://www.tmwr.org/) by Max Kuhn and Julia Silge
 - [Deep Learning in R*](https://www.manning.com/books/deep-learning-with-r) by François Chollet and Joseph J. Allaire
 
