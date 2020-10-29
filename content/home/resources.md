@@ -60,6 +60,7 @@ Mostly online resources (indicated by *) I find useful for learning data science
 
 #### Programming in general 
 
+- [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) by Al Aho and Jeff Ullman
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/gp/product/B003GCTQAE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) by Hunt Andrew and Thomas David 
 - [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/gp/product/B07LCM8RG2/ref=ppx_yo_dt_b_d_asin_title_o09?ie=UTF8&psc=1) by Fowler Martin
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) by Erich Gamma, John Vlissides, Richard Helm, and Ralph Johnson
@@ -108,6 +109,7 @@ Mostly online resources (indicated by *) I find useful for learning data science
 
 ### Database 
 
+- [Mining of Massive Datasets](http://www.mmds.org/) by Jure Leskovec, Anand Rajaraman, Jeff Ullman
 - [PostgreSQL: Up and Running: A Practical Guide to the Advanced Open Source Database](https://www.amazon.com/gp/product/B076C4WLBP/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) by Regina O. Obe and Leo S. Hsu
 - [MongoDB: The Definitive Guide: Powerful and Scalable Data Storage](https://www.amazon.com/gp/product/B082J7DMBX/ref=ppx_yo_dt_b_d_asin_title_o03?ie=UTF8&psc=1) by Shannon Bradshaw, Eoin Brazil, and Kristina Chodorow 
 - [Mastering Spark with R*](https://therinspark.com/) by Javier Luraschi, Kevin Kuo, and Edgar Ruiz
