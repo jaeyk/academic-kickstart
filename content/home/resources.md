@@ -52,6 +52,7 @@ Mostly online resources (indicated by *) I find useful for learning data science
 #### Python programming 
 
 - [Think Python: How to Think Like a Computer Scientist*](http://www.greenteapress.com/thinkpython/html/) by Allen B. Downey
+- [Python Crash Course](https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036) by Eric Matthes 
 - [python-bootcamp*](https://github.com/profjsb/python-bootcamp/tree/master/Lectures) by Joshua Bloom 
 - [pandas-cookbook*](https://github.com/jvns/pandas-cookbook) by Julia Evans 
 
