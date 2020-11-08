@@ -29,7 +29,6 @@ Mostly online resources (indicated by *) I find useful for learning data science
 - [Statisical Inference via Data Science: A ModernDive into R and the Tidyverse*](https://moderndive.com/) by Chester Ismay and Albert Y. Kim
 - [Mathematical Statistics with Resampling and R](https://www.amazon.com/Mathematical-Statistics-Resampling-Laura-Chihara/dp/1118029852) by Laura M. Chihara and Tim C. Hesterberg 
 - [Mixed Models with R: Getting started with random effects*](https://m-clark.github.io/mixed-models-with-R/) by Michael Clark 
-- [Introduction to Probability](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view) by Joe Blitzstein and Jessica Hwang
 - [Gov2001: Quantitative Social Science Methods*](https://www.youtube.com/playlist?list=PL0n492lUg2sgSevEQ3bLilGbFph4l92gH) by Gary King 
 - [MSE125: Applied Statistics*](https://5harad.com/mse125/) by Sharad Goel 
 - [STAT215A: Applied Statistics*](https://github.com/rlbarter/STAT-215A-Fall-2017) by Bin Yu and Rebecca Barter 
@@ -122,4 +121,5 @@ Mostly online resources (indicated by *) I find useful for learning data science
 
 ### Math
 
+- [Introduction to Probability](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view) by Joe Blitzstein and Jessica Hwang
 - [Coding the Matrix: Linear Algebra through Computer Science Applications](https://www.amazon.com/Coding-Matrix-Algebra-Computer-Applications-ebook/dp/B00VSN9NHY/ref=msx_wsirn_v1_3/139-1288150-1994460?_encoding=UTF8&pd_rd_i=B00VSN9NHY&pd_rd_r=95c6bfb5-4fb6-4ac0-9e86-0dde2fd38ec7&pd_rd_w=7KG33&pd_rd_wg=4IUjX&pf_rd_p=77bfbfb0-a9eb-4e71-8d50-7ac5425f6fa1&pf_rd_r=V5PSVK5J3QEC09CPTB6T&psc=1&refRID=V5PSVK5J3QEC09CPTB6T) by Philip Klein 
