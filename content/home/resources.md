@@ -29,6 +29,7 @@ Mostly online resources (indicated by *) I find useful for learning data science
 - [Statisical Inference via Data Science: A ModernDive into R and the Tidyverse*](https://moderndive.com/) by Chester Ismay and Albert Y. Kim
 - [Mathematical Statistics with Resampling and R](https://www.amazon.com/Mathematical-Statistics-Resampling-Laura-Chihara/dp/1118029852) by Laura M. Chihara and Tim C. Hesterberg 
 - [Mixed Models with R: Getting started with random effects*](https://m-clark.github.io/mixed-models-with-R/) by Michael Clark 
+- [Introduction to Probability](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view) by Joe Blitzstein and Jessica Hwang
 - [Gov2001: Quantitative Social Science Methods*](https://www.youtube.com/playlist?list=PL0n492lUg2sgSevEQ3bLilGbFph4l92gH) by Gary King 
 - [MSE125: Applied Statistics*](https://5harad.com/mse125/) by Sharad Goel 
 - [STAT215A: Applied Statistics*](https://github.com/rlbarter/STAT-215A-Fall-2017) by Bin Yu and Rebecca Barter 
