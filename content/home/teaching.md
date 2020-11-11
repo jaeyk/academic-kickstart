@@ -14,7 +14,7 @@ subtitle = ""
 
 +++
 
-My graduate funding package required me to teach one semester. I have taught way more than one semester because I enjoy teaching. The following Feynman quote strongly resonates with me. Teaching is also a great way to get away from the curse of knowledge and learn how to talk technical subjects to non-experts. 
+My graduate funding package required me to teach one semester. I have taught way more than one semester because I enjoy teaching. The following Feynman quote strongly resonates with me. Teaching has also helped me to learn how to talk technical subjects to non-experts. 
 
 "I don't believe I can really do without teaching. The reason is, I have to have something so that when I don't have any ideas and I'm not getting anywhere I can say to myself, 'At least I'm living; at least I'm doing something; I am making some contribution' -- it's just psychological." - Richard Feynman
 
