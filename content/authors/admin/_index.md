@@ -74,7 +74,7 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in Political Science and a [D-Lab Senior Data Science Fellow](https://dlab.berkeley.edu/data_science_fellows) at UC Berkeley and a [Visiting Student Fellow](https://snfagora.jhu.edu/people/graduate-student-fellows/) at P3 Lab at the SNF Agora Institute at Johns Hopkins University. I study political learning, organizing, and mobilization among marginalized populations using big data and data science. I also build tools that make social science research more efficient and reproducible.
+I am a PhD candidate in Political Science and a [D-Lab Senior Data Science Fellow](https://dlab.berkeley.edu/data_science_fellows) at UC Berkeley and a [Visiting Student Fellow](https://snfagora.jhu.edu/people/graduate-student-fellows/) at P3 Lab at the SNF Agora Institute at Johns Hopkins University. I study political learning, organizing, and mobilization among marginalized populations using big data and data science. I also build tools that make social science research more efficient and reproducible. I am currently working with [Milan de Vries](https://www.linkedin.com/in/milan-de-vries-567b7376) on a project that develops a data infrastructure that automatically collects, parses, and organizes data on civic organizations and data engagement in the US based on more than 3 million tax reports. 
 
 **Dissertation Research** 
 
