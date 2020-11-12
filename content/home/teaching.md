@@ -14,7 +14,7 @@ subtitle = ""
 
 +++
 
-My graduate funding package required me to teach one semester. I have taught way more than the minimum teaching load because I enjoy teaching. Also, teaching programming and statistics has helped me to learn how to explain a technical subject to non-experts and fill the missing gaps in my knowledge. 
+My graduate funding package required me to teach one semester. I have taught way more than the minimum teaching load because I enjoy teaching. Also, teaching programming and statistics has helped me to learn how to explain a technical subject to non-experts.
 
 ## Teaching Awards and Training 
 
