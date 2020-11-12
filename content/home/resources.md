@@ -83,6 +83,7 @@ Mostly online resources (indicated by *) I find useful for learning data science
 
 #### Intro to Machine Learning 
 
+- [Machine Learning Engineering](https://www.amazon.com/dp/B08HKSG5X8/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Andriy Burkov 
 - [Statistical Modeling: The Two Cultures (with comments and a rejoinder by the author)*](https://projecteuclid.org/euclid.ss/1009213726) by Leo Breiman
 - [Machine Learning*](https://www.coursera.org/courses?query=machine%20learning%20andrew%20ng) by Andrew Ng
 - [Machine Learning for Everyone*](https://vas3k.com/blog/machine_learning/) by vas3k.com
