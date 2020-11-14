@@ -78,7 +78,7 @@ I am a PhD candidate in Political Science and a [D-Lab Senior Data Science Fello
 
 **Dissertation Research** 
 
-My dissertation provides an original large-scale dataset and research software that enable data-intensive historical research on the politics of racial and ethnic minority groups. This project won WPSA's Don T. Nakanishi Award for Distinguished Scholarship and Service in Asian Pacific American Politics. Portions of this work are published in *Studies in American Political Development* and forthcoming at the *Journal of Computational Social Science*. 
+My dissertation provides an original large-scale dataset and research software that enable data-intensive historical research on the politics of racial and ethnic minority groups. This project won WPSA's Don T. Nakanishi Award for Distinguished Scholarship and Service in Asian Pacific American Politics. Portions of this work are published in [*Studies in American Political Development*](https://www.cambridge.org/core/journals/studies-in-american-political-development/article/racism-is-not-enough-minority-coalition-building-in-san-francisco-seattle-and-vancouver/7557642023E744D2E0FA68D800C8E08E) and forthcoming at the [*Journal of Computational Social Science*](https://osf.io/preprints/socarxiv/pg3aq/). 
 
 **Other Research** 
 
