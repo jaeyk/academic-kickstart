@@ -9,7 +9,7 @@ image_preview = ""
 
 math = false
 
-publication_types = ["1"]
+publication_types = ["2"]
 
 publication = "*Journal of Computational Social Science (forthcoming)*"
 
