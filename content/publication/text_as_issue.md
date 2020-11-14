@@ -3,16 +3,17 @@ abstract = "The voices of racial minority groups have rarely been examined syste
 
 authors = ["Kim, Jae Yeon"]
 
-date = "2020-04-30"
+date = "2020-11-14"
 
 image_preview = ""
 
 math = false
 
-publication_types = ["3"]
+publication_types = ["1"]
 
-publication = "*SocArXiv*"
-publication_short = "Winner of the WPSA's Don. T Nakanishi Award in Distinguished Scholarship and Service in Asian Pacific American Politics. Conditionally accepted at *the Journal of Computational Social Science*"
+publication = "*Journal of Computational Social Science (forthcoming)*"
+
+publication_short = "*Journal of Computational Social Science (forthcoming)*"
 
 selected = false
 
@@ -33,6 +34,10 @@ url_code = "https://github.com/jaeyk/content-analysis-for-evaluating-ML-performa
 # [header]
 # image = "headers/bubbles-wide.jpg"
 # caption = "My caption :smile:"
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["peer_c"]
 
 +++
 
