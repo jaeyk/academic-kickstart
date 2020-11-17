@@ -19,7 +19,7 @@ Mostly online resources (indicated by *) I find useful for learning data science
 ### Data science 
 
 - [Advanced Data Science 2020*](http://jtleek.com/ads2020/) by Jeff Leek and Roger D. Peng 
-- [Learning Lab*](https://lab.github.com/) by GitHub
+- [Business Data Science: Combining Machine Learning and Economics to Optimize, Automate, and Accelerate Business Decisions](https://www.amazon.com/Business-Data-Science-Combining-Accelerate/dp/1260452778) by Matt Taddy 
 - [Veridical data science*](https://bids.berkeley.edu/sites/default/files/2020-0213-yu-kumbier-veridical-data-science-plus-qnas.pdf) by Bin Yu and Karl Kumbier
 - [S, R, and Data Science*](https://journal.r-project.org/archive/2020/RJ-2020-028/RJ-2020-028.pdf) by John M. Chambers 
 
@@ -82,22 +82,28 @@ Mostly online resources (indicated by *) I find useful for learning data science
 
 ### Machine learning 
 
-#### Intro to Machine Learning 
+#### Machine learning theory 
 
-- [Machine Learning Engineering](https://www.amazon.com/dp/B08HKSG5X8/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Andriy Burkov 
+- [Statistical Learning Theory*](https://people.eecs.berkeley.edu/~jordan/courses/281B-spring04/) by Michael Jordan
 - [Statistical Modeling: The Two Cultures (with comments and a rejoinder by the author)*](https://projecteuclid.org/euclid.ss/1009213726) by Leo Breiman
+- [Practical Machine Learning](https://people.eecs.berkeley.edu/~jordan/courses/294-fall09/) by Michael Jordan
 - [Machine Learning*](https://www.coursera.org/courses?query=machine%20learning%20andrew%20ng) by Andrew Ng
 - [Machine Learning for Everyone*](https://vas3k.com/blog/machine_learning/) by vas3k.com
 - [Google Machine Learning Crash Course*](https://developers.google.com/machine-learning/crash-course/)
 - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable*](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
 - [Fairness and machine learning: Limitations and Opportunities*](https://fairmlbook.org/) by Solon Barocas, Moritz Hardt, Arvind Narayanan
 
-#### Intro to Deep learning 
+#### Deep learning theory 
 
+- [CIAR 2005 Summer School Lectures*](http://www.cs.toronto.edu/~hinton/sstut.html) by Geoffrey Hinton
 - [www.deeplearningbook.org*](https://www.deeplearningbook.org/) by Aaron Courville, Ian Goodfellow, and Yoshua Bengio
 - [MIT 6.S191: Introduction to Deep Learning*](http://introtodeeplearning.com/) by Alexander Amini and Ava Soleimany
 - [fast.ai - Practical Deep Learning for Coders*](https://course.fast.ai/)
 - [Kaggle Deep Learning*](https://www.kaggle.com/learn/deep-learning)
+
+#### Machine learning enginerring 
+
+- [Machine Learning Engineering](https://www.amazon.com/dp/B08HKSG5X8/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Andriy Burkov 
 
 #### Machine learning in R
 
