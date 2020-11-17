@@ -20,6 +20,7 @@ Mostly online resources (indicated by *) I find useful for learning data science
 
 - [Advanced Data Science 2020*](http://jtleek.com/ads2020/) by Jeff Leek and Roger D. Peng 
 - [Business Data Science: Combining Machine Learning and Economics to Optimize, Automate, and Accelerate Business Decisions](https://www.amazon.com/Business-Data-Science-Combining-Accelerate/dp/1260452778) by Matt Taddy 
+  - Related course by the author: https://github.com/TaddyLab/MBAcourse
 - [Veridical data science*](https://bids.berkeley.edu/sites/default/files/2020-0213-yu-kumbier-veridical-data-science-plus-qnas.pdf) by Bin Yu and Karl Kumbier
 - [S, R, and Data Science*](https://journal.r-project.org/archive/2020/RJ-2020-028/RJ-2020-028.pdf) by John M. Chambers 
 
@@ -87,6 +88,7 @@ Mostly online resources (indicated by *) I find useful for learning data science
 - [Statistical Learning Theory*](https://people.eecs.berkeley.edu/~jordan/courses/281B-spring04/) by Michael Jordan
 - [Practical Machine Learning*](https://people.eecs.berkeley.edu/~jordan/courses/294-fall09/) by Michael Jordan
 - [Machine Learning](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html) by Tom Mitchell
+  - Related course by the author: http://www.cs.cmu.edu/~awm/10701/
 - [Statistical Modeling: The Two Cultures (with comments and a rejoinder by the author)*](https://projecteuclid.org/euclid.ss/1009213726) by Leo Breiman
 - [Machine Learning*](https://www.coursera.org/courses?query=machine%20learning%20andrew%20ng) by Andrew Ng
 - [Machine Learning for Everyone*](https://vas3k.com/blog/machine_learning/) by vas3k.com
