@@ -86,7 +86,7 @@ Mostly online resources (indicated by *) I find useful for learning data science
 
 - [Statistical Learning Theory*](https://people.eecs.berkeley.edu/~jordan/courses/281B-spring04/) by Michael Jordan
 - [Statistical Modeling: The Two Cultures (with comments and a rejoinder by the author)*](https://projecteuclid.org/euclid.ss/1009213726) by Leo Breiman
-- [Practical Machine Learning](https://people.eecs.berkeley.edu/~jordan/courses/294-fall09/) by Michael Jordan
+- [Practical Machine Learning*](https://people.eecs.berkeley.edu/~jordan/courses/294-fall09/) by Michael Jordan
 - [Machine Learning*](https://www.coursera.org/courses?query=machine%20learning%20andrew%20ng) by Andrew Ng
 - [Machine Learning for Everyone*](https://vas3k.com/blog/machine_learning/) by vas3k.com
 - [Google Machine Learning Crash Course*](https://developers.google.com/machine-learning/crash-course/)
