@@ -14,7 +14,7 @@ subtitle = ""
 
 +++
 
-Mostly online resources (indicated by *) I find useful for learning data science, applied statistics, programming, data visualization, machine learning, database management, and math. I really enjoy self-directed learning and hope you that you do as well.
+Mostly online resources (indicated by *) I find useful for learning data science, applied statistics, programming, data visualization, machine learning, database management, and math. I really enjoy self-directed learning and hope that you do as well.
 
 ### Data science 
 
