@@ -11,7 +11,7 @@ math = false
 
 publication_types = ["2"]
 
-publication = "*Journal of Computational Social Science (forthcoming)*"
+publication = "*Forthcoming in the Journal of Computational Social Science*"
 
 publication_short = "*Journal of Computational Social Science (forthcoming)*"
 
