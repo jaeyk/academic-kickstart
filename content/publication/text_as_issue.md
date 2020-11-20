@@ -13,7 +13,7 @@ publication_types = ["2"]
 
 publication = "*Forthcoming in the Journal of Computational Social Science*"
 
-publication_short = "*Journal of Computational Social Science (forthcoming)*"
+publication_short = "*Forthcoming in the Journal of Computational Social Science*"
 
 selected = false
 
