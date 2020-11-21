@@ -59,6 +59,10 @@ Mostly online resources (indicated by *) I find useful for learning data science
 - [python-bootcamp*](https://github.com/profjsb/python-bootcamp/tree/master/Lectures) by Joshua Bloom 
 - [pandas-cookbook*](https://github.com/jvns/pandas-cookbook) by Julia Evans 
 
+#### R + Python Programming 
+
+- [A Tour of Data Science: Learn R and Python in Parallel](https://www.amazon.com/Tour-Data-Science-Parallel-Chapman-ebook/dp/B08KGY4BCH/ref=sr_1_1?dchild=1&qid=1605946223&refinements=p_27%3ANailong+Zhang&s=digital-text&sr=1-1&text=Nailong+Zhang) by Nailong Zhang 
+
 #### UNIX programming 
 
 - [The Unix Workbench*](https://seankross.com/the-unix-workbench/) by Sean Kross
