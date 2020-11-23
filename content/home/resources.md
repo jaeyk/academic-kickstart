@@ -34,7 +34,9 @@ Mostly online resources (indicated by *) I find useful for learning data science
 - [PSYCH252: Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/psych252book/) by Tobias Gerstenberg
 - [MSE125: Applied Statistics*](https://5harad.com/mse125/) by Sharad Goel 
 - [STAT215A: Applied Statistics*](https://github.com/rlbarter/STAT-215A-Fall-2017) by Bin Yu and Rebecca Barter
-- [36-402: Undergraduate Advanced Data Analytics*](http://www.stat.cmu.edu/~cshalizi/uADA/17/) by Cosma Shalizi 
+- [36-402: Undergraduate Advanced Data Analytics*](http://www.stat.cmu.edu/~cshalizi/uADA/17/) by Cosma Shalizi
+- [Literature on Recent Advances in
+Applied Micro Methods*](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf) by Christine Cai
 
 ### Programming 
 
