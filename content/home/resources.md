@@ -110,9 +110,10 @@ Applied Micro Methods*](https://christinecai.github.io/PublicGoods/applied_micro
 - [fast.ai - Practical Deep Learning for Coders*](https://course.fast.ai/)
 - [Kaggle Deep Learning*](https://www.kaggle.com/learn/deep-learning)
 
-#### Machine learning enginerring 
+#### Machine learning practices  
 
 - [Machine Learning Engineering](https://www.amazon.com/dp/B08HKSG5X8/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Andriy Burkov 
+- [Automated Machine Learning](https://link.springer.com/book/10.1007/978-3-030-05318-5) by Frank Hutter, Lars Kotthoff, and Joaquin Vanschoren
 
 #### Machine learning in R
 
