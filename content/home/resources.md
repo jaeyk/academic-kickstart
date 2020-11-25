@@ -37,6 +37,10 @@ Mostly online resources (indicated by *) I find useful for learning data science
 - [36-402: Undergraduate Advanced Data Analytics*](http://www.stat.cmu.edu/~cshalizi/uADA/17/) by Cosma Shalizi
 - [Literature on Recent Advances in
 Applied Micro Methods*](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf) by Christine Cai
+- [Impact Evaluations in Practice*](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice) by Paul J. Gertler, Sebastian Martinez, et al.
+- [Epidemiology by Design](https://www.amazon.com/dp/B07YYHG2XS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Daniel Westreich 
+- [Causal Inference Book*](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2020/11/ciwhatif_hernanrobins_23nov20.pdf) by Miguel A. Hernán and James M. Robins
+- [Causal Inference Mixtape*](https://scunning.com/cunningham_mixtape.pdf) by Scott Cunningham
 
 ### Programming 
 
