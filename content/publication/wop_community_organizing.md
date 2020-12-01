@@ -12,7 +12,7 @@ math = false
 publication_types = ["3"]
 
 publication = "*SocArXiv*"
-publication_short = "*Revise and Resubmit* at Political Research Quarterly"
+publication_short = "*Accepted* at Political Research Quarterly"
 
 selected = false
 
