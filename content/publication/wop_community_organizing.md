@@ -3,7 +3,7 @@ abstract = "In the early 20th century, Asian Americans and Latinos organized alo
 
 authors = ["Kim, Jae Yeon"]
 
-date = "2020-04-04"
+date = "2020-11-30"
 
 image_preview = ""
 

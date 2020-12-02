@@ -5,12 +5,21 @@
     <link>https://jaeyk.github.io/publication/</link>
       <atom:link href="https://jaeyk.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 14 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jaeyk.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_box_center_2.png</url>
       <title>Publications</title>
       <link>https://jaeyk.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>How Other Minorities Gained Access: The War on Poverty and Asian American and Latino Community Organizing</title>
+      <link>https://jaeyk.github.io/publication/wop_community_organizing/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://jaeyk.github.io/publication/wop_community_organizing/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
     
     <item>
       <title>Integrating Human and Machine Coding to Measure Political Issues in Ethnic Newspaper Articles</title>
@@ -35,15 +44,6 @@
       <link>https://jaeyk.github.io/publication/intersectional_bias_in_hate_speech/</link>
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://jaeyk.github.io/publication/intersectional_bias_in_hate_speech/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How Other Minorities Gained Access: The War on Poverty and Asian American and Latino Community Organizing</title>
-      <link>https://jaeyk.github.io/publication/wop_community_organizing/</link>
-      <pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://jaeyk.github.io/publication/wop_community_organizing/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
