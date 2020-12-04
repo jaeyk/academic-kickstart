@@ -86,7 +86,7 @@ My dissertation provides an original large-scale dataset and research software t
 
 **Other Research** 
 
-My research on [intersectional bias in hate speech and abusive language datasets](arxiv.org/abs/2005.05921) appears in *Proceedings of the Fourteenth International Conference on Web and Social Media (ICWSM), Data Challenge Workshop*. I also have working papers (under review) on [how threats influence political learning among marginalized populations](osf.io/preprints/socarxiv/y65sd/) (using automated text classification and a natural experiment) and [how social exclusion shapes Asian American partisanship](osf.io/preprints/socarxiv/dvm7r/) (based on large-scale social media and survey data). 
+My research on [intersectional bias in hate speech and abusive language datasets](https://arxiv.org/abs/2005.05921) appears in *Proceedings of the Fourteenth International Conference on Web and Social Media (ICWSM), Data Challenge Workshop*. I also have working papers (under review) on [how threats influence political learning among marginalized populations](https://osf.io/preprints/socarxiv/y65sd/) (using automated text classification and a natural experiment) and [how social exclusion shapes Asian American partisanship](https://osf.io/preprints/socarxiv/dvm7r/) (based on large-scale social media and survey data). 
 
 **Research Software** 
 
