@@ -14,7 +14,7 @@ subtitle = ""
 
 +++
 
-Mostly online resources (indicated by *) I find useful for learning data science, applied statistics, programming, data visualization, machine learning, database management, and math. I really enjoy self-directed learning and hope that you do as well.
+Mostly online resources (indicated by *) I find useful for learning data science, applied statistics, programming, data visualization, machine learning and database management. I really enjoy self-directed learning and hope that you do as well.
 
 ### Data science 
 
@@ -42,6 +42,10 @@ Applied Micro Methods*](https://christinecai.github.io/PublicGoods/applied_micro
 - [Epidemiology by Design](https://www.amazon.com/dp/B07YYHG2XS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Daniel Westreich 
 - [Causal Inference Book*](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2020/11/ciwhatif_hernanrobins_23nov20.pdf) by Miguel A. Hernán and James M. Robins
 - [Causal Inference Mixtape*](https://scunning.com/cunningham_mixtape.pdf) by Scott Cunningham
+
+### Probability 
+
+- [Introduction to Probability](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view) by Joe Blitzstein and Jessica Hwang
 
 ### Programming 
 
@@ -74,6 +78,10 @@ Applied Micro Methods*](https://christinecai.github.io/PublicGoods/applied_micro
 
 - [Think Julia: How to Think Like a Computer Scientist*](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) by Ben Lauwens and Allen Downey
 
+#### Numerical programming 
+
+- [Using R for Numerical Analysis in Science and Engineering](https://www.amazon.com/Numerical-Analysis-Science-Engineering-Chapman/dp/143988448X) by Victor A. Bloomfield 
+- [Coding the Matrix: Linear Algebra through Computer Science Applications](https://www.amazon.com/Coding-Matrix-Algebra-Computer-Applications-ebook/dp/B00VSN9NHY/ref=msx_wsirn_v1_3/139-1288150-1994460?_encoding=UTF8&pd_rd_i=B00VSN9NHY&pd_rd_r=95c6bfb5-4fb6-4ac0-9e86-0dde2fd38ec7&pd_rd_w=7KG33&pd_rd_wg=4IUjX&pf_rd_p=77bfbfb0-a9eb-4e71-8d50-7ac5425f6fa1&pf_rd_r=V5PSVK5J3QEC09CPTB6T&psc=1&refRID=V5PSVK5J3QEC09CPTB6T) by Philip Klein 
 
 #### UNIX programming 
 
@@ -148,8 +156,3 @@ Applied Micro Methods*](https://christinecai.github.io/PublicGoods/applied_micro
 - [Mastering Spark with R*](https://therinspark.com/) by Javier Luraschi, Kevin Kuo, and Edgar Ruiz
 - [Database Internals: A Deep Dive into How Distributed Data Systems Work](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems-ebook/dp/B07XW76VHZ/ref=sr_1_1?dchild=1&keywords=database&qid=1602085126&s=digital-text&sr=1-1) by Alex Petrov 
 - [Concise Guide to Databases: A Practical Introduction](https://www.amazon.com/gp/product/B00GV38QL0/ref=ppx_yo_dt_b_d_asin_title_o04?ie=UTF8&psc=1) by Peter Lake and Paul Crowther
-
-### Math
-
-- [Introduction to Probability](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view) by Joe Blitzstein and Jessica Hwang
-- [Coding the Matrix: Linear Algebra through Computer Science Applications](https://www.amazon.com/Coding-Matrix-Algebra-Computer-Applications-ebook/dp/B00VSN9NHY/ref=msx_wsirn_v1_3/139-1288150-1994460?_encoding=UTF8&pd_rd_i=B00VSN9NHY&pd_rd_r=95c6bfb5-4fb6-4ac0-9e86-0dde2fd38ec7&pd_rd_w=7KG33&pd_rd_wg=4IUjX&pf_rd_p=77bfbfb0-a9eb-4e71-8d50-7ac5425f6fa1&pf_rd_r=V5PSVK5J3QEC09CPTB6T&psc=1&refRID=V5PSVK5J3QEC09CPTB6T) by Philip Klein 
