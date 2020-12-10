@@ -19,6 +19,7 @@ My graduate funding package required me to teach one semester. I have taught way
 ## Teaching Awards and Training 
 
 - [Outstanding Graduate Student Instructor Award](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-2017/), UC Berkeley, AY 2016-2017 
+- [Certificate in Teaching and Learning in Higher Education](https://gsi.berkeley.edu/programs-services/certificate-program/), GSI Center, UC Berkeley, Spring 2021 (expected)
 - [Graduate Student Data Science Pedagogy Workshop](https://data.berkeley.edu/news/graduate-student-data-science-pedagogy-workshop%20), UC Berkeley, June 2019
 
 ## Graduate Seminars:
