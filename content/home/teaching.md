@@ -41,8 +41,3 @@ My graduate funding package required me to teach one semester. I have taught way
   - [Advanced Data Wrangling in R](https://github.com/dlab-berkeley/advanced-data-wrangling-in-R)
   - [Reproducible Project Management in R](https://github.com/dlab-berkeley/efficient-reproducible-project-management-in-R)
 - Co-instructor, Data Science Discovery Team Lead Seminar, Division of Computing, Data Science, and Society, UC Berkeley, Spring 2020 
-
-## Mentoring:
-- Graduate fellow, [Data Science Education Program](https://ais.berkeley.edu/departments/data-science-education-program), Division of Computing, Data Science, and Society, UC Berkeley, Spring 2020
-- Project lead, [Data Science Discovery Program](https://data.berkeley.edu/research/discovery), UC Berkeley, Fall 2019 - Spring 2020
-- Project lead, Undergraduate Research Apprentice Program, UC Berkeley, Fall 2018
