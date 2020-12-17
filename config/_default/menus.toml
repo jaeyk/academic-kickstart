@@ -48,7 +48,7 @@
   url = "#bio"
   weight = 80
 
-[[main]]
-  name = "Resources"
-  url = "#resources"
-  weight = 90
+#[[main]]
+# name = "Resources"
+#  url = "#resources"
+#  weight = 90
