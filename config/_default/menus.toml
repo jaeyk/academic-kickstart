@@ -39,7 +39,7 @@
   weight = 65
 
 [[main]]
-  name = "CV/Resume"
+  name = "CV"
   url = "#cv"
   weight = 70
 
