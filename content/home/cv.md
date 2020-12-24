@@ -6,7 +6,7 @@ headless = true
 active = true  # Activate this widget? true/false
 weight = 150  # Order that this section will appear.
 
-title = "CV/Resume"
+title = "CV"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -47,4 +47,4 @@ title = "CV/Resume"
  css_class = ""
 +++
 
-Please view my [CV](files/CV_Jae_Yeon_Kim.pdf) or [resume](files/resume_Jae_Yeon_Kim.pdf).
+Please view my [CV](files/CV_Jae_Yeon_Kim.pdf). 
