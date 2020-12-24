@@ -82,7 +82,7 @@ I am currently working with [Hahrie Han](https://politicalscience.jhu.edu/direct
 
 **Dissertation Research** 
 
-My dissertation examines how government policies influenced U.S. minority coalition formation in the 1960s and 1970s. This project won WPSA's Don T. Nakanishi Award for Distinguished Scholarship and Service in Asian Pacific American Politics. Portions of this work are published in [*Studies in American Political Development*](https://www.cambridge.org/core/journals/studies-in-american-political-development/article/racism-is-not-enough-minority-coalition-building-in-san-francisco-seattle-and-vancouver/7557642023E744D2E0FA68D800C8E08E) and forthcoming in [*Political Research Quarterly*](https://osf.io/preprints/socarxiv/n83xs/) and the [*Journal of Computational Social Science*](https://osf.io/preprints/socarxiv/pg3aq/).
+My dissertation examines how government policies influenced U.S. minority coalition formation in the 1960s and 1970s. This project won WPSA's Don T. Nakanishi Award for Distinguished Scholarship and Service in Asian Pacific American Politics. Portions of this work appear (or forthcoming) in [*Studies in American Political Development*](https://www.cambridge.org/core/journals/studies-in-american-political-development/article/racism-is-not-enough-minority-coalition-building-in-san-francisco-seattle-and-vancouver/7557642023E744D2E0FA68D800C8E08E), [*Political Research Quarterly*](https://osf.io/preprints/socarxiv/n83xs/) and the [*Journal of Computational Social Science*](https://osf.io/preprints/socarxiv/pg3aq/).
 
 **Other Research** 
 
