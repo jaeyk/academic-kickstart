@@ -3,7 +3,7 @@ abstract = "The voices of racial minority groups have rarely been examined syste
 
 authors = ["Kim, Jae Yeon"]
 
-date = "2020-11-14"
+date = "2020-12-31"
 
 image_preview = ""
 
