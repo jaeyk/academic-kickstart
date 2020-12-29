@@ -3,7 +3,7 @@ abstract = "In the early 20th century, Asian Americans and Latinos organized alo
 
 authors = ["Kim, Jae Yeon"]
 
-date = "2020-11-30"
+date = "2020-12-29"
 
 image_preview = ""
 
@@ -11,14 +11,14 @@ math = false
 
 publication_types = ["3"]
 
-publication = "*SocArXiv*"
-publication_short = "Forthcoming in *Political Research Quarterly*"
+publication = "*Political Research Quarterly*"
+publication_short = "*Political Research Quarterly*"
 
 selected = false
 
 title = "How Other Minorities Gained Access: The War on Poverty and Asian American and Latino Community Organizing"
 
-url_pdf = "https://osf.io/preprints/socarxiv/n83xs/"
+url_pdf = "https://journals.sagepub.com/doi/10.1177/1065912920983456"
 url_code = "https://github.com/jaeyk/regression-analysis-with-time-series-data"
 url_dataset = "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FLUPBJ"
 # url_project = "#"
