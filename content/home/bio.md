@@ -13,4 +13,4 @@ subtitle = ""
 
 +++
 
-I was born and raised in South Korea, but by the time I finished college, I had also lived in Hong Kong and Taiwan. I moved to California in 2014 as a graduate student in political science at UC Berkeley. Prior to my graduate studies, I worked in the tech industry in South Korea. I was a strategy manager at a software startup and served on the advisory board of [Naver](https://en.wikipedia.org/wiki/Naver), "The Google of South Korea." When I don't write or code, I enjoy running and cooking.
+I was born and raised in South Korea, but by the time I finished college, I had also lived in Hong Kong and Taiwan. I moved to California in 2014 as a graduate student in political science at UC Berkeley. Prior to my graduate studies, I worked in the tech industry in South Korea. I was a strategy manager at a software startup and served on the advisory board of [Naver](https://en.wikipedia.org/wiki/Naver), "The Google of South Korea." When I don't write or code, I enjoy running and cooking. I run 6-7k almost every morning and cook at least one meal a day at home.
