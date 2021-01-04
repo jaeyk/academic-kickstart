@@ -3,7 +3,7 @@ abstract = "The voices of racial minority groups have rarely been examined syste
 
 authors = ["Kim, Jae Yeon"]
 
-date = "2020-12-29"
+date = "2021-01-03"
 
 image_preview = ""
 
@@ -11,15 +11,15 @@ math = false
 
 publication_types = ["2"]
 
-publication = "Forthcoming in the *Journal of Computational Social Science*"
+publication = "*Journal of Computational Social Science*"
 
-publication_short = "Forthcoming in the *Journal of Computational Social Science*"
+publication_short = "*Journal of Computational Social Science*"
 
 selected = false
 
 title = "Integrating Human and Machine Coding to Measure Political Issues in Ethnic Newspaper Articles"
 
-url_pdf = "https://osf.io/preprints/socarxiv/pg3aq/"
+url_pdf = "https://link.springer.com/article/10.1007/s42001-020-00097-2"
 url_code = "https://github.com/jaeyk/content-analysis-for-evaluating-ML-performances"
 # url_dataset = "#"
 # url_project = "#"
