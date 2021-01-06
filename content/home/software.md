@@ -22,4 +22,4 @@ subtitle = ""
 
 ## For fun 
 
-- [`TidyChaseBankStatements`](https://jaeyk.github.io/TidyChaseBankStatements/): R Package for turning Chase Bank Statements into a tidy dataframe.
+- [`TidyChaseBankStatements`](https://jaeyk.github.io/TidyChaseBankStatements/): R package for turning Chase Bank Statements into a tidy dataframe.
