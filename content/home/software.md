@@ -24,7 +24,7 @@ subtitle = ""
 
 2. Still contains known or unknown bugs 
 
-- (a) [`ParseIRS990`](https://github.com/p3lab/ParseIRS990: R package for parsing tax return forms filed with the U.S. Internal Revenue Service (with Milan de Vries) 
+- (a) [`ParseIRS990`](https://github.com/p3lab/ParseIRS990): R package for parsing tax return forms filed with the U.S. Internal Revenue Service (with Milan de Vries) 
 - (b) [`GetAboutPages`](https://github.com/p3lab/GetAboutPages): R package for scraping an about page from an organization website (with Milan de Vries)
 - (c) [`GetSocialMediaHandles`](https://github.com/p3lab/GetSocialMediaHandles): R package for finding a social media handler of an organization (with Milan de Vries) 
 
