@@ -90,7 +90,7 @@ My research on [intersectional bias in hate speech and abusive language datasets
 
 **Research Software** 
 
-I authored or co-authored and maintain [six R packages](https://jaeyk.github.io/) for parsing large and complex data (tweets, newspaper articles, tax forms, websites, etc.) and making research computationally reproducible. 
+I authored or co-authored and maintain [six R packages](https://github.com/jaeyk) for parsing large and complex data (tweets, newspaper articles, tax forms, websites, etc.) and making research computationally reproducible. 
 
 **Teaching Computational Social Science** 
 
