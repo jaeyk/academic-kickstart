@@ -86,7 +86,7 @@ My dissertation examines how government policies influenced U.S. minority coalit
 
 **Other Research** 
 
-My research on [intersectional bias in hate speech and abusive language datasets](https://arxiv.org/abs/2005.05921) appears in *Proceedings of the Fourteenth International Conference on Web and Social Media (ICWSM), Data Challenge Workshop*. I also have working papers (under review) on [how threats influence political learning among marginalized populations](https://osf.io/preprints/socarxiv/y65sd/) and [how social exclusion shapes Asian American partisanship](https://osf.io/preprints/socarxiv/dvm7r/). 
+My research on [intersectional bias in hate speech and abusive language datasets](https://arxiv.org/abs/2005.05921) appears in *Proceedings of the Fourteenth International Conference on Web and Social Media (ICWSM), Data Challenge Workshop* and was covered by [*AlgorithmWatch Newsletter*](http://x3ysn.mjt.lu/nl2/x3ysn/xs09.html?hl=en). I also have working papers (under review) on [how threats influence political learning among marginalized populations](https://osf.io/preprints/socarxiv/y65sd/), [how social exclusion shapes Asian American partisanship](https://osf.io/preprints/socarxiv/dvm7r/), and [how survey respondents interpret questions about racial solidarity](https://osf.io/preprints/socarxiv/k6c9x). 
 
 **Research Software** 
 
