@@ -18,7 +18,7 @@ selected = false
 title = "History, Agency, Power, and Linked Fate"
 
 url_pdf = "https://osf.io/p4tcj/"
-url_code = "https://github.com/jaeyk/regression-analysis-with-time-series-dathttps://github.com/jaeyk/linked_fate_review"
+url_code = "https://github.com/jaeyk/linked_fate_review"
 # url_dataset = "#"
 # url_project = "#"
 # url_slides = "#"
