@@ -73,7 +73,7 @@ user_groups:
 
 I am a PhD candidate in Political Science and a [D-Lab Senior Data Science Fellow](https://dlab.berkeley.edu/people/jae-yeon-kim) at UC Berkeley and a [Visiting Student Fellow](https://snfagora.jhu.edu/people/graduate-student-fellows/) at the SNF Agora Institute's P3 Lab at Johns Hopkins University. 
 
-I am a computational social scientist. My research agenda is interdisciplinary and lies at the intersection of social sciences and data science. My current research interests are divided into two streams: (1) data science for social science and (2) social science for data science.  
+As a computational social scientist, my research agenda is interdisciplinary and lies at the intersection of social sciences and data science. My current research interests are divided into two streams: (1) data science for social science and (2) social science for data science.  
 
 **Data Science for Social Science**
 
@@ -93,11 +93,11 @@ My other research focuses on political behavior of racial minorities in the U.S.
 
 **Research Software** 
 
-I am a research software developer. I authored or co-authored and maintain [six R packages](https://github.com/jaeyk) for parsing large and complex data (tweets, newspaper articles, tax forms, websites, etc.) and making research computationally reproducible. 
+I authored or co-authored and maintain [six R packages](https://github.com/jaeyk) for parsing large and complex data (tweets, newspaper articles, tax forms, websites, etc.) and making research computationally reproducible. 
 
 **Teaching Computational Social Science** 
 
-I am a data science educator. I have taught computational social science at both graduate and undergraduate levels in semester-long courses and short workshops. I also served as a [Data Science Education Program Fellow](https://ocean.sagepub.com/blog/skills/5-principles-to-get-undergraduates-involved-in-real-world-data-science-projects) at UC Berkeley and co-organized the [Summer Institute in Computational Social Science in the San Francisco Bay Area](https://bids.berkeley.edu/news/bay-sicss-bridging-computational-social-scientists-and-practitioners-social-good). I am currently working on an open textbook project titled ["Computational Thinking for Social Scientists."](https://jaeyk.github.io/PS239T/)
+I have taught computational social science at both graduate and undergraduate levels in semester-long courses and short workshops. I also served as a [Data Science Education Program Fellow](https://ocean.sagepub.com/blog/skills/5-principles-to-get-undergraduates-involved-in-real-world-data-science-projects) at UC Berkeley and co-organized the [Summer Institute in Computational Social Science in the San Francisco Bay Area](https://bids.berkeley.edu/news/bay-sicss-bridging-computational-social-scientists-and-practitioners-social-good). I am currently working on an open textbook project titled ["Computational Thinking for Social Scientists."](https://jaeyk.github.io/PS239T/)
 
 **Contact Me**
 
