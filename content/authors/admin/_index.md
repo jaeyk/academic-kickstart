@@ -73,7 +73,9 @@ user_groups:
 
 I am a PhD candidate in Political Science and a [D-Lab Senior Data Science Fellow](https://dlab.berkeley.edu/people/jae-yeon-kim) at UC Berkeley and a [Visiting Student Fellow](https://snfagora.jhu.edu/people/graduate-student-fellows/) at the SNF Agora Institute's P3 Lab at Johns Hopkins University. 
 
-As a computational social scientist, my research agenda is interdisciplinary and lies at the intersection of social sciences and data science. My current research interests are divided into two streams: (1) data science for social science and (2) social science for data science. For (1), I focus on using data science to study political learning, organizing, and mobilization among marginalized populations. For (2), I concentrate on using social science to investigate the bias and fairness in machine learning applications. I am also a research software developer and data science educator. 
+As a computational social scientist, my research agenda is interdisciplinary and lies at the intersection of social sciences and data science. My current research interests are divided into two streams: (1) data science for social science and (2) social science for data science. For (1), I focus on using data science to study political learning, organizing, and mobilization among marginalized populations. For (2), I concentrate on using social science to investigate the bias and fairness in machine learning applications. My research appears in social science and computational science journals and conference proceedings. 
+
+I am also a research software developer and data science educator. I have developed or co-developed six R packages fo parsing unstructured data (e.g., social media posts, websites, newspaper articles, tax reports) and making research computationally reproducible. I have taught computational social science at both graduate and undergraduate levels in semester-long courses and short workshops. I am currently working on an open textbook project titled ["Computational Thinking for Social Scientists."](https://jaeyk.github.io/PS239T/)
 
 **Contact Me**
 
