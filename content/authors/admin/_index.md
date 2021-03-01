@@ -73,7 +73,7 @@ user_groups:
 
 I am a PhD candidate in Political Science and a [D-Lab Senior Data Science Fellow](https://dlab.berkeley.edu/people/jae-yeon-kim) at UC Berkeley and a [Visiting Student Fellow](https://snfagora.jhu.edu/people/graduate-student-fellows/) at the SNF Agora Institute's P3 Lab at Johns Hopkins University. 
 
-As a computational social scientist, my research agenda is interdisciplinary and lies at the intersection of social sciences and data science. My current research interests are divided into two streams: (1) data science for social science and (2) social science for data science.  
+As a computational social scientist, my research agenda is interdisciplinary and lies at the intersection of social sciences and data science. My current research interests are divided into two streams: (1) data science for social science and (2) social science for data science. For (1), I focus on using data science to study political learning, organizing, and mobilization among marginalized populations. For (2), I concentrate on using social science to investigate the bias and fairness in machine learning applications.
 
 **Data Science for Social Science**
 
