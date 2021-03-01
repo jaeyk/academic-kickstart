@@ -71,11 +71,17 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in Political Science and a [D-Lab Senior Data Science Fellow](https://dlab.berkeley.edu/people/jae-yeon-kim) at UC Berkeley and a [Visiting Student Fellow](https://snfagora.jhu.edu/people/graduate-student-fellows/) at the SNF Agora Institute's P3 Lab at Johns Hopkins University. I study political learning, organizing, and mobilization among marginalized populations using big data and data science. I also build tools that make social science research more efficient and reproducible. 
+I am a PhD candidate in Political Science and a [D-Lab Senior Data Science Fellow](https://dlab.berkeley.edu/people/jae-yeon-kim) at UC Berkeley and a [Visiting Student Fellow](https://snfagora.jhu.edu/people/graduate-student-fellows/) at the SNF Agora Institute's P3 Lab at Johns Hopkins University. 
 
-**Ongoing Research**
+I am a computational social scientist. My research agenda is interdisciplinary and lies at the intersection of social sciences and data science. My current research interests are divided into two streams: (1) data science for social science and (2) social science for data science.  
 
-I am currently working with [Hahrie Han](https://politicalscience.jhu.edu/directory/hahrie-han/) and [Milan de Vries](https://www.linkedin.com/in/milan-de-vries-567b7376) on Mapping the Modern Agora project that develops infrastructure for automatically collecting, parsing, and organizing data on civic organizations in the US based on more than three million tax reports. 
+**Data Science for Social Science**
+
+I am currently working with [Hahrie Han](https://politicalscience.jhu.edu/directory/hahrie-han/) and [Milan de Vries](https://www.linkedin.com/in/milan-de-vries-567b7376) to develop a big data infrastructure for studying political organizing in the U.S. I applied machine learning to large-scale text data to examine [how social exclusion shapes Asian American partisanship](https://osf.io/preprints/socarxiv/dvm7r/) and [how threats influence political learning among marginalized populations](https://osf.io/preprints/socarxiv/y65sd/).
+
+**Social Science for Data Science**
+
+My audit study on [intersectional bias in hate speech and abusive language datasets](https://arxiv.org/abs/2005.05921) appears in *Proceedings of the Fourteenth International Conference on Web and Social Media, Data Challenge Workshop (ICWSM '20)*. I also have two ongoing projects (a behavioral study and an invited book chapter) on online hate speech. 
 
 **Dissertation Research** 
 
@@ -83,21 +89,18 @@ My dissertation examines how government policies influenced U.S. minority coalit
 
 **Other Research** 
 
-My research on [intersectional bias in hate speech and abusive language datasets](https://arxiv.org/abs/2005.05921) appears in *Proceedings of the Fourteenth International Conference on Web and Social Media (ICWSM), Data Challenge Workshop* and was covered by [*AlgorithmWatch Newsletter*](http://x3ysn.mjt.lu/nl2/x3ysn/xs09.html?hl=en). I also have working papers (under review) on [how threats influence political learning among marginalized populations](https://osf.io/preprints/socarxiv/y65sd/), [how social exclusion shapes Asian American partisanship](https://osf.io/preprints/socarxiv/dvm7r/), and [how survey respondents interpret questions about racial solidarity](https://osf.io/preprints/socarxiv/k6c9x). 
+My other research focuses on political behavior of racial minorities in the U.S. and attitude toward immigrants and refugees in East Asia.
 
 **Research Software** 
 
-I authored or co-authored and maintain [six R packages](https://github.com/jaeyk) for parsing large and complex data (tweets, newspaper articles, tax forms, websites, etc.) and making research computationally reproducible. 
+I am a research software developer. I authored or co-authored and maintain [six R packages](https://github.com/jaeyk) for parsing large and complex data (tweets, newspaper articles, tax forms, websites, etc.) and making research computationally reproducible. 
 
 **Teaching Computational Social Science** 
 
-I am a proud recipient of the "Outstanding Graduate Student Instructor Award" and have taught computational social science at both graduate and undergraduate levels in semester-long courses and short workshops. I also served as a [Data Science Education Program Fellow](https://ocean.sagepub.com/blog/skills/5-principles-to-get-undergraduates-involved-in-real-world-data-science-projects) at UC Berkeley and co-organized the [Summer Institute in Computational Social Science in the San Francisco Bay Area](https://bids.berkeley.edu/news/bay-sicss-bridging-computational-social-scientists-and-practitioners-social-good). I am currently working on an open textbook project titled ["Computational Thinking for Social Scientists."](https://jaeyk.github.io/PS239T/)
+I am a data science educator. I have taught computational social science at both graduate and undergraduate levels in semester-long courses and short workshops. I also served as a [Data Science Education Program Fellow](https://ocean.sagepub.com/blog/skills/5-principles-to-get-undergraduates-involved-in-real-world-data-science-projects) at UC Berkeley and co-organized the [Summer Institute in Computational Social Science in the San Francisco Bay Area](https://bids.berkeley.edu/news/bay-sicss-bridging-computational-social-scientists-and-practitioners-social-good). I am currently working on an open textbook project titled ["Computational Thinking for Social Scientists."](https://jaeyk.github.io/PS239T/)
 
 **Contact Me**
 
 I love getting emails. 
 
 [jaeyeonkim@berkeley.edu](mailto:jaeyeonkim@berkeley.edu).
-
-I am on the job market this year and will graduate in May 2021. 
-
