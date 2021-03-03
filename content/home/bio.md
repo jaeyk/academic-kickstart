@@ -13,4 +13,6 @@ subtitle = ""
 
 +++
 
-I was born and raised in South Korea, but I had also lived in Hong Kong and Taiwan by the time I finished college. I moved to the San Francisco Bay Area in 2014 as a graduate student in political science at UC Berkeley. Before my graduate studies, I worked in the tech industry in South Korea. I was a strategy manager at a software startup and served on the advisory board of [Naver](https://en.wikipedia.org/wiki/Naver), “The Google of South Korea.” When I do not write or code, I enjoy running (usually 10-15k), strength and conditioning workouts (I was a member of UC Berkeley Taekwondo and Wushu club), and cooking (mostly Korean home-cooking).
+I was born and raised in South Korea, but I had also lived in Hong Kong and Taiwan by the time I finished college. I moved to the San Francisco Bay Area in 2014 as a graduate student in political science at UC Berkeley. Before my graduate studies, I worked in the tech industry in South Korea. I was a strategy manager at a software startup and served on the advisory board of [Naver](https://en.wikipedia.org/wiki/Naver), “The Google of South Korea.” When I do not write or code, I enjoy running (usually 10-15k), reading, and cooking (mostly Korean and occasionally Chinese). 
+
+I came from a low-income background and has fought a constant, uphill battle, to pursue my academic career. I am committed to increasing diversity and inclusion in computational social science through my research, teaching, and mentoring.  
