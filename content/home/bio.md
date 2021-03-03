@@ -17,4 +17,4 @@ I was born and raised in South Korea, but I had also lived in Hong Kong and Taiw
 
 I came from a low-income background and has fought a constant, uphill battle, to pursue my academic career. I am committed to increasing diversity and inclusion in academic data science and computational social science through my research, teaching, and mentoring. 
 
-When I do not write or code, I enjoy running (usually 10-15k), reading (a long-time fan of Haruki Murakami), and cooking (mostly Korean and occasionally Chinese).
+When I do not write or code, I enjoy running (10-15k), reading (mostly technical books), and cooking (Korean and Chinese).
