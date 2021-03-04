@@ -18,20 +18,21 @@ organizations:
 
 #  url: "#"
 
-# Short bio (displayed in user profile at end of posts)
-bio: I use data science to advance social science research on diversity and inclusion.
+# Short bio (displayed in the user profile at the end of posts)
+bio: I am a computational social scientist interested in a wide range of public policy problems. 
 
 interests:
 - Computational social science
+- Political behavior 
 - Racial and ethnic politics
 - Historical social science
-- Political behavior
+
 
 education:
   courses:
   - course: PhD Candidate in Political Science
     institution: UC Berkeley
-    year: 2016~
+    year: 2016-2021 (expected)
   - course: MA in Political Science
     institution: UC Berkeley
     year: 2016
@@ -73,6 +74,6 @@ user_groups:
 
 I am a PhD candidate in Political Science and a [D-Lab Senior Data Science Fellow](https://dlab.berkeley.edu/people/jae-yeon-kim) at UC Berkeley and a [Visiting Student Fellow](https://snfagora.jhu.edu/people/graduate-student-fellows/) at the SNF Agora Institute's P3 Lab at Johns Hopkins University.
 
-As a computational social scientist, my research agenda is interdisciplinary and lies at the intersection of social sciences and data science. My current research interests are divided into two streams: (1) data science for social science and (2) social science for data science. For the first line of research, I focus on using data science to study political learning, organizing, and mobilization among marginalized populations. For the second line of research, I concentrate on using social science to investigate bias and fairness in machine learning applications. My dissertation examines the politics of solidarity in multiracial America, and my other research concerns political behavior in the U.S. and beyond.
+As a computational social scientist, my research agenda is interdisciplinary and lies at the intersection of social sciences and data science. My current research interests are divided into two streams: (1) data science for social science and (2) social science for data science. For the first line of research, I focus on using data science to study political learning, organizing, and mobilization among marginalized populations. For the second line of research, I concentrate on using social science to investigate bias and fairness in machine learning applications. My dissertation examines the politics of solidarity in multiracial America, and my other research concerns political behavior in the U.S. and beyond. My long-term research goals are two-fold: (1) reducing the gap between social sciences and data science and (2) narrowing the chasm between research and practice.
 
-I am also a research software developer and data science educator. I have either developed or co-developed six R packages for parsing unstructured data (e.g., social media posts, websites, newspaper articles, and tax reports) and making research computationally reproducible. I have taught computational social science at both graduate and undergraduate levels in semester-long courses and short workshops. I am currently working on an open textbook project titled ["Computational Thinking for Social Scientists."](https://jaeyk.github.io/PS239T/)
+I am also a research software developer and data science educator. I have developed or co-developed six R packages for parsing unstructured data (e.g., social media posts, websites, newspaper articles, and tax reports) and making research computationally reproducible. I have taught computational social science at both graduate and undergraduate levels in semester-long courses and short workshops. I am currently working on an open textbook project titled ["Computational Thinking for Social Scientists."](https://jaeyk.github.io/PS239T/)
