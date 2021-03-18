@@ -2,10 +2,10 @@
 name = "Kim"
 
 # Optional Google font URL
-google_fonts = "Ubuntu|Ubuntu+Mono"
+google_fonts = "Ubuntu|Ubuntu+Mono|Garamond|Helvetica"
 
 # Font families
-heading_font = "Ubuntu"
-body_font = "Ubuntu"
-nav_font = "Ubuntu"
-mono_font = "Ubuntu Mono"
+heading_font = "Helvetica"
+body_font = "Helvetica"
+nav_font = "Helvetica"
+mono_font = "Helvetica"
