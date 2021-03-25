@@ -17,4 +17,4 @@ I was born and raised in South Korea, but I had also lived in Hong Kong and Taiw
 
 I am a first-generation college student and came from a low-income background. I have fought a constant uphill battle to pursue my academic career. I am committed to increasing diversity and inclusion in computational social science through my research, teaching, and mentoring. 
 
-When I do not write or code, I enjoy running and cooking.
+When I do not write or code, I enjoy running and cooking. I learned almost everything I need to know about professionalism from reading Haruki Murakami's "What I Talk About When I Talk About Running."

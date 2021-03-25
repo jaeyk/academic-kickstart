@@ -2,8 +2,8 @@
 # Blank widget.
 widget = "blank"
 headless = true
-active = false  # Activate this widget? true/false
-weight = 200  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 160  # Order that this section will appear.
 
 title = "Collaboration"
 subtitle = ""
@@ -14,7 +14,11 @@ subtitle = ""
 
 +++
 
-I have conducted research with 17 amazing people, including (both senior and junior) faculty, graduate and undergraduate students. The following is the list of their names and affiliations (ordered alphabetically). Please check out their websites to learn more about their work. 
+I believe in the power of collaboration. 
+
+I have co-founded three interdisciplinary working groups and co-organized the [Summer Institute in Computational Social Science in the San Francisco Bay Area](https://sicss.io/2020/bay_area/), hosted by UC Berkeley and Stanford, all while in graduate school.
+
+I have conducted research with 17 amazing people across social sciences and engineering, including faculty, graduate and undergraduate students. The following is the list of their names and affiliations (ordered alphabetically). Please check out their websites to learn more about their research. 
 
 1. [Alan Yan](https://polisci.berkeley.edu/people/person/alan-yan) (Political Science, UC Berkeley)
 2. [Andrew Thompson](https://sites.northwestern.edu/athompson/) (Political Science, George Washington)
