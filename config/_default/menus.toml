@@ -33,22 +33,18 @@
   url = "#teaching"
   weight = 60
 
-#[[main]]
-#  name = "Consulting"
-#  url = "#consulting"
-#  weight = 65
-
 [[main]]
   name = "CV"
   url = "#cv"
   weight = 70
 
 [[main]]
-  name = "Bio"
-  url = "#bio"
+ name = "Collaboration"
+  url = "#collabo"
   weight = 80
 
-#[[main]]
-# name = "Resources"
-#  url = "#resources"
-#  weight = 90
+[[main]]
+  name = "Bio"
+  url = "#bio"
+  weight = 90
+
