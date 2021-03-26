@@ -18,7 +18,7 @@ I believe in the power of collaboration.
 
 I have co-founded three interdisciplinary working groups and co-organized the [Summer Institute in Computational Social Science in the San Francisco Bay Area](https://sicss.io/2020/bay_area/), hosted by UC Berkeley and Stanford, all while in graduate school.
 
-I have conducted research with 16 amazing people across social sciences and engineering. The following is the list of their names and affiliations (ordered alphabetically). Please check out their websites to learn more about their research. 
+I have conducted research with 16 amazing people across social sciences and engineering. The following is the list of their names, fields, and affiliations (ordered alphabetically). Please check out their websites to learn more about their research. 
 
 * [Alan Yan](https://polisci.berkeley.edu/people/person/alan-yan) (Political Science, UC Berkeley)
 * [Andrew Thompson](https://sites.northwestern.edu/athompson/) (Political Science, George Washington)
@@ -31,7 +31,7 @@ I have conducted research with 16 amazing people across social sciences and engi
 * [Nathan Chan](https://scholar.google.com/citations?user=3NKNlWwAAAAJ&hl=en) (Political Science, UC Irvine)
 * [Nicholas Camp](https://lsa.umich.edu/orgstudies/people/faculty/npcamp.html) (Organizational Studies, Michigan)
 * [Reuel Rogers](https://polisci.northwestern.edu/people/core-faculty/reuel-rogers.html) (Political Science, Northwestern)
-* [Sarah Nam](https://www.linkedin.com/in/sarah-nam) (SetSail)
+* [Sarah Nam](https://www.linkedin.com/in/sarah-nam) (Data Science, SetSail)
 * [Sarah Santiago](https://www.linkedin.com/in/sarahnsantiago) (Applied Mathematics, UC Berkeley)
 * [Taeku Lee](https://polisci.berkeley.edu/people/person/taeku-lee) (Political Science and Law, UC Berkeley)
 * [Vivien Leung](https://sites.google.com/view/vivienleung/home) (Political Science, UCLA)
