@@ -14,7 +14,7 @@ subtitle = ""
 
 +++
 
-I believe in the power of collaboration. 
+I believe that collaboration makes me a better researcher and research more fun.
 
 I have co-founded three interdisciplinary working groups and co-organized the [Summer Institute in Computational Social Science in the San Francisco Bay Area](https://sicss.io/2020/bay_area/), hosted by UC Berkeley and Stanford, all while in graduate school.
 

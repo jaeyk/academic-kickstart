@@ -5,14 +5,18 @@ headless = true
 active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
-title = "Software"
+title = "Software & Data"
 subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 +++
+
+Here is the list of software and data, which I have created for other researchers and practitioners.
+
+# Open-source Software 
 
 ## For research 
 
@@ -31,3 +35,8 @@ subtitle = ""
 ## For fun 
 
 - [`TidyChaseBankStatements`](https://jaeyk.github.io/TidyChaseBankStatements/): R package for turning Chase Bank Statements into a tidy dataframe.
+
+# Public Data
+
+
+- [Asian American and Latino Advocacy and Community Service Organizations (1868-2016), Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FFLUPBJ)

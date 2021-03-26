@@ -19,7 +19,7 @@ organizations:
 #  url: "#"
 
 # Short bio (displayed in the user profile at the end of posts)
-bio: I am a computational social scientist interested in a wide range of public policy problems. 
+# bio: I am a computational social scientist interested in a wide range of public policy problems. 
 
 interests:
 - Computational social science
@@ -76,8 +76,8 @@ I am a PhD candidate in Political Science and a [D-Lab Senior Data Science Fello
 
 As a computational social scientist, my research agenda is interdisciplinary and lies at the intersection of social sciences and data science. My current research interests are divided into two streams: (1) data science for social science and (2) social science for data science. For the first research line, I use big data and machine learning to study political learning, organizing, and mobilization among marginalized populations. For the second research line, I use social science to investigate bias and fairness in machine learning applications. My dissertation examines the politics of solidarity in multiracial America, and my other research concerns political behavior in the U.S. and beyond. 
 
-My research has been published or is forthcoming in journals and conference proceedings including *Political Research Quarterly*, *Studies in American Political Development*, *Journal of Computational Social Science*, and *Proceedings of the Fourteenth International Conference on Web and Social Media, Data Challenge Workshop*. I am the recipient of the Western Political Science Association's 2020 [Don T. Nakanishi Award](https://www.wpsanet.org/award/) for distinguished scholarship in Asian Pacific American Politics. 
+My research has been published or is forthcoming in journals and conference proceedings including *Political Research Quarterly*, *Studies in American Political Development*, *Journal of Computational Social Science*, and *Proceedings of the Fourteenth International Conference on Web and Social Media (ICWSM), Data Challenge Workshop*. I am the recipient of the Western Political Science Association's 2020 [Don T. Nakanishi Award](https://www.wpsanet.org/award/) for distinguished scholarship in Asian Pacific American Politics. 
  
-I am also a research software developer and data science educator. I have developed or co-developed six R packages for computationally intensive social science research. I have taught computational social science at both graduate and undergraduate levels in semester-long courses and short workshops. I am currently working on an open textbook project titled ["Computational Thinking for Social Scientists."](https://jaeyk.github.io/PS239T/)
+I am also a research software developer and data science educator. I have either developed or co-developed six R packages for computationally intensive social science research. I have taught computational social science at both graduate and undergraduate levels in semester-long courses and short workshops. I am currently working on an open textbook project titled ["Computational Thinking for Social Scientists."](https://jaeyk.github.io/PS239T/)
 
 To get in touch with me, please send me an email at jaeyeonkim@berkeley.edu. 

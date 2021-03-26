@@ -19,14 +19,9 @@
   weight = 30
 
 [[main]]
-  name = "Software"
+  name = "Software & Data"
   url = "#software"
   weight = 40
-
-[[main]]
-  name = "Data"
-  url = "#data"
-  weight = 50
 
 [[main]]
   name = "Teaching"
