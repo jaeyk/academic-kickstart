@@ -16,9 +16,7 @@ subtitle = ""
 
 Here is the list of software and data, which I have created for other researchers and practitioners.
 
-# Open-source Software 
-
-## For research 
+## Open-source Software 
 
 1. Stable 
 
@@ -32,11 +30,8 @@ Here is the list of software and data, which I have created for other researcher
 - (b) [`GetAboutPages`](https://github.com/p3lab/GetAboutPages): R package for scraping an about page from an organization website (with Milan de Vries)
 - (c) [`GetSocialMediaHandles`](https://github.com/p3lab/GetSocialMediaHandles): R package for finding a social media handle of an organization (with Milan de Vries) 
 
-## For fun 
 
-- [`TidyChaseBankStatements`](https://jaeyk.github.io/TidyChaseBankStatements/): R package for turning Chase Bank Statements into a tidy dataframe.
-
-# Public Data
+## Public Data
 
 
 - [Asian American and Latino Advocacy and Community Service Organizations (1868-2016), Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FFLUPBJ)
