@@ -30,6 +30,10 @@ Here is the list of software and data, which I have created for other researcher
 - (b) [`GetAboutPages`](https://github.com/p3lab/GetAboutPages): R package for scraping an about page from an organization website (with Milan de Vries)
 - (c) [`GetSocialMediaHandles`](https://github.com/p3lab/GetSocialMediaHandles): R package for finding a social media handle of an organization (with Milan de Vries) 
 
+3. Internal use 
+
+- (a) [`p3themes`](https://p3lab.github.io/p3themes/
+): R package for applying [p3 lab](https://www.hahriehan.com/aboutp3) themes to ggplot2 objects (with Grace Park and Liz McKenna)
 
 ## Public Data
 
