@@ -29,6 +29,7 @@ Here is the list of software and data, which I have created for other researcher
 - (a) [`ParseIRS990`](https://github.com/p3lab/ParseIRS990): R package for parsing tax return forms filed with the U.S. Internal Revenue Service (with Milan de Vries) 
 - (b) [`GetAboutPages`](https://github.com/p3lab/GetAboutPages): R package for scraping an about page from an organization website (with Milan de Vries)
 - (c) [`GetSocialMediaHandles`](https://github.com/p3lab/GetSocialMediaHandles): R package for finding a social media handle of an organization (with Milan de Vries) 
+- (d) [`rnytapi`](https://jaeyk.github.io/rnytapi/): R interface for the New York Times API
 
 3. Internal use 
 
@@ -36,6 +37,5 @@ Here is the list of software and data, which I have created for other researcher
 ): R package for applying [p3 lab](https://www.hahriehan.com/aboutp3) themes to ggplot2 objects (with Grace Park and Liz McKenna)
 
 ## Public Data
-
 
 - [Asian American and Latino Advocacy and Community Service Organizations (1868-2016), Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FFLUPBJ)
