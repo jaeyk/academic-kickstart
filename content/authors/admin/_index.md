@@ -72,7 +72,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. candidate in Political Science and a [D-Lab Senior Data Science Fellow](https://dlab.berkeley.edu/people/jae-yeon-kim) at UC Berkeley and a [Visiting Student Fellow](https://snfagora.jhu.edu/people/graduate-student-fellows/) at the SNF Agora Institute's P3 Lab at Johns Hopkins University.
+I am a PhD candidate in Political Science and a D-Lab Senior Data Science Fellow at UC Berkeley. I will be an Assistant Research Scholar at the SNF Agora Institute at the Johns Hopkins University in fall 2021. I will join the KDI School of Public Policy and Management as an Assistant Professor starting January 2022.
 
 As a computational social scientist, my research agenda is interdisciplinary and lies at the intersection of social sciences and data science. My current research interests are divided into two streams: (1) data science for social science and (2) social science for data science. For the first research line, I use big data and machine learning to study how marginalized groups learn about and participate in politics. For the second research line, I use social science to investigate bias and fairness in machine learning applications. My dissertation examines the politics of solidarity in multiracial America, and my other research concerns political behavior in the U.S. and beyond. 
 
