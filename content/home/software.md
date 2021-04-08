@@ -23,11 +23,11 @@ Here is the list of software and data, which I have created for other researcher
 - (a) [`tidytweetjson`](https://jaeyk.github.io/tidytweetjson/): R package for turning Tweet JSON files into a cleaned and wrangled dataset. 
 - (b) [`tidyethnicnews`](https://jaeyk.github.io/tidyethnicnews/): R package for turning search results from one of the largest databases on ethnic newspapers and magazines published in the United States into a cleaned and wrangled dataset. 
 - (c) [`makereproducible`](https://jaeyk.github.io/makereproducible/): R package for making a project computationally reproducible before sharing it.
+- (d) [`rnytapi`](https://jaeyk.github.io/rnytapi/): R interface for the New York Times API
 
 2. Still contains known or unknown bugs 
 
 - (a) [`MapAgora`](https://snfagora.github.io/MapAgora/): R package for getting tax reports, websites, and social media handles related to nonprofit organizations in the United States (with Milan de Vries) 
-- (b) [`rnytapi`](https://jaeyk.github.io/rnytapi/): R interface for the New York Times API
 
 3. Internal use 
 
