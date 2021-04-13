@@ -28,7 +28,7 @@ Here is the list of software and data, which I have created for other researcher
 2. Still contains known or unknown bugs 
 
 - (a) [`MapAgora`](https://snfagora.github.io/MapAgora/): R package for getting tax reports, websites, and social media handles related to nonprofit organizations in the United States (with Milan de Vries) 
-- (b) [`autotextclassifier`](https://snfagora.github.io/autotextclassifier/): R package for automatically classifying texts using a binary category (with Milan de Vries) 
+- (b) [`autotextclassifier`](https://snfagora.github.io/autotextclassifier/): R package for automatically classifying texts based on tidymodels (with Milan de Vries) 
 
 3. Internal use 
 
