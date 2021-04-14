@@ -18,7 +18,7 @@ I believe that collaboration makes me a better researcher and research more fun.
 
 I have co-founded three interdisciplinary working groups and co-organized the [Summer Institute in Computational Social Science in the San Francisco Bay Area](https://sicss.io/2020/bay_area/), hosted by UC Berkeley and Stanford, all while in graduate school.
 
-I have conducted research with 17 amazing people across social sciences and engineering. The following is the list of their names, fields, and affiliations (ordered alphabetically). Please check out their websites to learn more about their research. 
+I have conducted research with 18 amazing people across social sciences and engineering. The following is the list of their names, fields, and affiliations (ordered alphabetically). Please check out their websites to learn more about their research. 
 
 * [Alan Yan](https://polisci.berkeley.edu/people/person/alan-yan) (Political Science, UC Berkeley)
 * [Andrew Thompson](https://sites.northwestern.edu/athompson/) (Political Science, George Washington)
@@ -29,6 +29,7 @@ I have conducted research with 17 amazing people across social sciences and engi
 * [Jaren Haber](https://www.jarenhaber.com/) (Massive Data Institute, Georgetown)
 * [Margaret Ng](https://media.illinois.edu/margaret-yee-man-ng) (Journalism, UIUC)
 * [Milan de Vries](https://www.linkedin.com/in/milan-de-vries-567b7376) (SNF Agora Institute, Johns Hopkins)
+* [Natalie Masuoka](https://polisci.ucla.edu/person/natalie-masuoka/) (Political Science, UCLA)
 * [Nathan Chan](https://scholar.google.com/citations?user=3NKNlWwAAAAJ&hl=en) (Political Science, UC Irvine)
 * [Nicholas Camp](https://lsa.umich.edu/orgstudies/people/faculty/npcamp.html) (Organizational Studies, Michigan)
 * [Reuel Rogers](https://polisci.northwestern.edu/people/core-faculty/reuel-rogers.html) (Political Science, Northwestern)
