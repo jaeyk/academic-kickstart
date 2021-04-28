@@ -1,7 +1,7 @@
 +++
-abstract = "In this study, we used a natural experiment and machine learning to examine how threats prompt information seeking among marginalized populations. We traced how the September 11 attacks, an exogenous shock, increased the interest of Arab and Indian Americans in U.S. domestic politics. We classified 5,684 Arab American and Indian American newspaper articles using machine learning and estimated that three more articles on U.S. domestic politics were published daily in the post-9/11 period than in previous years. While the natural experiment design identifies the causal relationship between the intervention and the outcome variation, an automated text classification creates essential data for such a causal identification. This project also provides an accompanying R package that makes collecting data from the largest database of ethnic newspapers published in the U.S. easier and faster."
+abstract = "This study uses a natural experiment and machine learning to examine how threats shift immigrants' political attention from their home country to host society. We trace how the September 11 attacks, an exogenous shock, increased Arab and Indian Americans' interest in U.S. domestic politics. We classified 5,684 Arab American and Indian American newspaper articles using machine learning. We estimated that three more articles on U.S. domestic politics were published daily in the post-9/11 period than in previous years. We found that the intervention produced a 46% smaller effect among the host population by analyzing 23,086 New York Times articles. The findings demonstrate how threats shift the locus of targeted immigrant groups' political attention."
 
-authors = ["Kim, Jae Yeon"]
+authors = ["Kim, Jae Yeon and Andrew Thompson"]
 
 date = "2020-09-16"
 
@@ -16,7 +16,7 @@ publication = "*SocArXiv*"
 
 selected = false
 
-title = "How Threats Shape the Politics of Marginalized: Evidence from a Natural Experiment and Machine Learning"
+title = "Threats Shift Immigrants' Attention from Their Home Country to Host Society: Evidence from the September 11 Terrorist Attacks"
 
 url_pdf = "https://osf.io/preprints/socarxiv/y65sd/"
 url_code = "https://github.com/jaeyk/ITS-Text-Classification"
