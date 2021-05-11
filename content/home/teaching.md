@@ -40,6 +40,6 @@ subtitle = ""
   - [Reproducible Project Management in R](https://github.com/dlab-berkeley/efficient-reproducible-project-management-in-R)
 - Co-instructor, Data Science Discovery Team Lead Seminar, Division of Computing, Data Science, and Society, UC Berkeley, Spring 2020 
 
-## Summer Institute:
+## Summer Institutes:
 - Co-organizer, [Summer Institute in Computational Social Science in the San Francisco Bay Area](https://sicss.io/2020/bay_area/) (hosted by UC Berkeley and Stanford), June 15-July 3, 2020
 - Instructor, [Pre-Summer Institute in Computational Social Science Bootcamp](https://sicss.io/2021/howard-mathematica/) (hosted by Howard University and Mathematica), June 11-12, 2021 
