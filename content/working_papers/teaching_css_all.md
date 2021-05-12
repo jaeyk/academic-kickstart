@@ -18,7 +18,7 @@ selected = false
 
 title = "Teaching Computational Social Science for All"
 
-url_pdf = "https://osf.io/preprints/socarxiv/"
+url_pdf = "https://osf.io/preprints/socarxiv/pf7n6/?fbclid=IwAR2ZI0yw_pehS0mxAmeUBOGpzIhiO2LMUPGBzBLTLNo4C2HrJSoH9uZhgTY"
 #url_code = "#"
 # url_dataset = "#"
 # url_project = "#"
