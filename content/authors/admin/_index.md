@@ -71,15 +71,7 @@ user_groups:
 
 I am a computational social scientist, research software developer, and data science educator. I will be an Assistant Research Scholar at the SNF Agora Institute at Johns Hopkins University between July and December 2021. In 2022, I will join the KDI School of Public Policy and Management as an Assistant Professor. I received my Ph.D. in political science from UC Berkeley in May 2021. There I was a Senior Data Science Fellow at D-Lab and Graduate Student Researcher at Data Science Education Program.
 
-My current research focuses on three themes:
-
-  1. Scaling up research on civic and political engagement (especially among marginalized populations) 
-  
-  2. Taking a data-driven approach to designing experiments, tracking policy diffusion, and analyzing the K-12 and higher education markets
-  
-  3. Identifying and reducing bias in automated decision systems. 
-  
-  My dissertation examines the politics of solidarity in multiracial America, and my other research concerns political behavior in the U.S. and beyond.
+My current research focuses on three themes: (1) scaling up research on civic and political engagement (especially among marginalized populations), (2) taking a data-driven approach to designing experiments, tracking policy diffusion, and analyzing the K-12 and higher education markets, and (3) identifying and reducing bias in automated decision systems. My dissertation examines the politics of solidarity in multiracial America, and my other research concerns political behavior in the U.S. and beyond.
 
 My research has been published or forthcoming in academic journals and conference proceedings, including *Political Research Quarterly*, *Studies in American Political Development*, *Journal of Computational Social Science*, and *ICWSM*. My research has also appeared in popular outlets such as the *Washington Post's Monkey Cage*. I am the recipient of the Western Political Science Association's 2020 [Don T. Nakanishi Award](https://www.wpsanet.org/award/) for distinguished scholarship in Asian Pacific American Politics. 
  
