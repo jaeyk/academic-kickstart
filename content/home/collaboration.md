@@ -37,4 +37,4 @@ I have conducted research with 18 amazing people across social sciences and engi
 * [Sarah Santiago](https://www.linkedin.com/in/sarahnsantiago) (Applied Mathematics, UC Berkeley)
 * [Taeku Lee](https://polisci.berkeley.edu/people/person/taeku-lee) (Political Science and Law, UC Berkeley)
 * [Vivien Leung](https://sites.google.com/view/vivienleung/home) (Political Science, UCLA)
-* [Vivek Datta](https://www.linkedin.com/in/vivek-datta) (Computer Science and Data Science, UC Berkeley)
+* [Vivek Datta](https://www.linkedin.com/in/vivek-datta) (Software engineering, Amazon)
