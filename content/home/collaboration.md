@@ -18,13 +18,15 @@ I believe that collaboration makes me a better researcher and research more fun.
 
 I have co-founded three interdisciplinary working groups and co-organized the [Summer Institute in Computational Social Science in the San Francisco Bay Area](https://sicss.io/2020/bay_area/), hosted by UC Berkeley and Stanford, all while in graduate school.
 
-I have conducted research with 19 amazing people across social sciences and engineering. The following is the list of their names, fields, and affiliations (ordered alphabetically). Please check out their websites to learn more about their research. 
+I have conducted research with 21 amazing people across social sciences and engineering. The following is the list of their names, fields, and affiliations (ordered alphabetically). Please check out their websites to learn more about their research. 
 
 * [Alan Yan](https://polisci.berkeley.edu/people/person/alan-yan) (Political Science, UC Berkeley)
 * [Andrew Thompson](https://sites.northwestern.edu/athompson/) (Political Science, George Washington)
 * [Aniket Kesari](https://akesari12.github.io/) (Information Law Institute, NYU)
 * [Carlos Ortiz](https://www.linkedin.com/in/carlosortizdev) (Data Science, UC Berkeley)
+* [G Cristina Mora](https://sociology.berkeley.edu/faculty/g-cristina-mora) (Sociology, Berkeley)
 * [Daegon Cho](https://www.business.kaist.edu/faculty/dgcho) (Business, KAIST)
+* [Dina Okamoto](https://news.iu.edu/iu-experts/profile/m/563/okamoto-dina) (Sociology, Indiana)
 * [Hahrie Han](https://politicalscience.jhu.edu/directory/hahrie-han/) (SNF Agora Institute and Political Science, Johns Hopkins)
 * [Jaeung Sim](https://sites.google.com/view/jaeungsim) (Business, KAIST)
 * [Jaren Haber](https://www.jarenhaber.com/) (Massive Data Institute, Georgetown)
