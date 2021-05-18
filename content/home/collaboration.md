@@ -18,7 +18,7 @@ I believe that collaboration makes me a better researcher and research more fun.
 
 I have co-founded three interdisciplinary working groups and co-organized the [Summer Institute in Computational Social Science in the San Francisco Bay Area](https://sicss.io/2020/bay_area/), hosted by UC Berkeley and Stanford, all while in graduate school.
 
-I have conducted research with 18 amazing people across social sciences and engineering. The following is the list of their names, fields, and affiliations (ordered alphabetically). Please check out their websites to learn more about their research. 
+I have conducted research with 19 amazing people across social sciences and engineering. The following is the list of their names, fields, and affiliations (ordered alphabetically). Please check out their websites to learn more about their research. 
 
 * [Alan Yan](https://polisci.berkeley.edu/people/person/alan-yan) (Political Science, UC Berkeley)
 * [Andrew Thompson](https://sites.northwestern.edu/athompson/) (Political Science, George Washington)
