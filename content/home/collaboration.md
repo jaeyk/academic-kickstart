@@ -25,6 +25,7 @@ I have conducted research with 18 amazing people across social sciences and engi
 * [Aniket Kesari](https://akesari12.github.io/) (Information Law Institute, NYU)
 * [Carlos Ortiz](https://www.linkedin.com/in/carlosortizdev) (Data Science, UC Berkeley)
 * [Daegon Cho](https://www.business.kaist.edu/faculty/dgcho) (Business, KAIST)
+* [Hahrie Han](https://politicalscience.jhu.edu/directory/hahrie-han/) (SNF Agora Institute and Political Science, Johns Hopkins)
 * [Jaeung Sim](https://sites.google.com/view/jaeungsim) (Business, KAIST)
 * [Jaren Haber](https://www.jarenhaber.com/) (Massive Data Institute, Georgetown)
 * [Margaret Ng](https://media.illinois.edu/margaret-yee-man-ng) (Journalism, UIUC)
@@ -37,4 +38,4 @@ I have conducted research with 18 amazing people across social sciences and engi
 * [Sarah Santiago](https://www.linkedin.com/in/sarahnsantiago) (Applied Mathematics, UC Berkeley)
 * [Taeku Lee](https://polisci.berkeley.edu/people/person/taeku-lee) (Political Science and Law, UC Berkeley)
 * [Vivien Leung](https://sites.google.com/view/vivienleung/home) (Political Science, UCLA)
-* [Vivek Datta](https://www.linkedin.com/in/vivek-datta) (Software engineering, Amazon)
+* [Vivek Datta](https://www.linkedin.com/in/vivek-datta) (Software Engineering, Amazon)
