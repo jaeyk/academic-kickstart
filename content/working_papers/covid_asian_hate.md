@@ -16,7 +16,7 @@ publication_short = "R&R at the *Perspectives on Politics*"
 
 selected = false
 
-title = "Elite Messaging and Social Exclusion Shapes Asian American Partisan Attitudes During Times of Pandemic"
+title = "COVID-19 and Asian Americans: How Elite Messaging and Social Exclusion Shape Partisan Attitudes"
 
 url_pdf = "https://osf.io/preprints/socarxiv/dvm7r/"
 url_code = "https://github.com/jaeyk/covid19antiasian/"
