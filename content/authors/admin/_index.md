@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Computational social scientist
+role: Assistant Research Scholar
 
 # Organizations/Affiliations
 organizations:
-- name: UC Berkeley
+- name: SNF Agora Institute and P3 Lab, Johns Hopkins University 
 
 #  url: "#"
 
