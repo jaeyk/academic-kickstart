@@ -71,7 +71,7 @@ user_groups:
 
 I received my Ph.D. in political science from UC Berkeley in May 2021, where I was a Senior Data Science Fellow at D-Lab. I will be an Assistant Research Scholar at the SNF Agora Institute at Johns Hopkins University between July and December 2021. In 2022, I will join the KDI School of Public Policy and Management as an Assistant Professor of Data Science.
 
-My research agenda is interdisciplinary and lies at the intersection of social sciences and data science. My research agenda centers around two themes: (1) advancing social science theory and methods on power, inequality, and resistance and (2) making social science research more efficient and scalable.
+My research agenda is interdisciplinary and lies at the intersection of social sciences and data science. My research centers around two themes: (1) advancing social science theory and methods on power, inequality, and resistance and (2) making social science research more efficient and scalable.
 
 My research has been published or forthcoming in academic journals and conference proceedings, including *Political Research Quarterly*, *Studies in American Political Development*, *Journal of Computational Social Science*, and *ICWSM*. My research has also appeared in popular outlets such as the *Washington Post's Monkey Cage*. I am the recipient of the Western Political Science Association's 2020 [Don T. Nakanishi Award](https://www.wpsanet.org/award/) for distinguished scholarship in Asian Pacific American Politics. 
  
