@@ -69,7 +69,7 @@ user_groups:
 - Visitors
 ---
 
-I received my Ph.D. in political science from UC Berkeley in May 2021, where I was a Senior Data Science Fellow at D-Lab. I will be an Assistant Research Scholar at the SNF Agora Institute at Johns Hopkins University between July and December 2021. In 2022, I will join the KDI School of Public Policy and Management as an Assistant Professor.
+I received my Ph.D. in political science from UC Berkeley in May 2021, where I was a Senior Data Science Fellow at D-Lab. I will be an Assistant Research Scholar at the SNF Agora Institute at Johns Hopkins University between July and December 2021. In 2022, I will join the KDI School of Public Policy and Management as an Assistant Professor of Data Science.
 
 My research agenda is interdisciplinary and lies at the intersection of social sciences and data science. My current research focuses on four themes: (1) big data analysis of civil society, (2) data-driven approach to research design and policy analysis, (3) measuring marginalized experience, (4) reducing bias in automated decision systems. My dissertation examines the politics of solidarity in multiracial America. Most of my work focuses on U.S. politics, and I have a special interest in power, inequality, and resistance.
 
