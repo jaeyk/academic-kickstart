@@ -15,7 +15,7 @@ publication_short = "*OSF Preprints*"
 
 selected = false
 
-title = "History, Agency, Power, and Linked Fate"
+title = "Rewiring Linked Fate: Bringing Back History, Agency, Power"
 
 url_pdf = "https://osf.io/p4tcj/"
 url_code = "https://github.com/jaeyk/linked_fate_review"
