@@ -23,10 +23,9 @@ organizations:
 
 interests:
 - Computational social science
-- Political behavior 
 - Racial and ethnic politics
+- Political behavior
 - Public policy and organization
-
 
 education:
   courses:
